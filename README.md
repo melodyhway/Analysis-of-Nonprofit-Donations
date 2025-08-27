@@ -148,4 +148,11 @@ ORDER BY percentage DESC
 
 <img width="859" height="438" alt="Screenshot 2025-08-27 at 12 44 31 AM" src="https://github.com/user-attachments/assets/0cbf9943-7e93-4eb1-93fb-b72691aa1c2d" />
 
-This query shows that ~80% of the total donations made this fiscal year came from Foundations with a total of $5517442.89 in donations. This shows that there is high community invovlement from foundations. There are potential parternerships and opportunties to fundraise for other causes with these foundations. Furthermore, the next highest is at the individual level indicating that people in the community care about the needs that the non-profit addresses. 
+This query shows that ~80% of the total donations made this fiscal year came from Foundations with a total of $5517442.89 in donations. This indicates high potential for community involvement with other foundations by facilitating potential partnerships and initiatives for community support through this non-profit and partnering Foundations. Furthermore, the next highest is at the individual level indicating that people in the community care about the needs that the non-profit addresses and could potentially focus on increasing this percentage by investigating new methods of fundraising with more market research, creating more community involvement events or others. 
+
+### 7. Where are the funds typically allocated towards? What is the percentage distribution? 
+
+Taking a look at the fundList column, we can get a sense for where the donations are distributed towards whether it be for general operations, work development programs, aging support programs, etc. 
+
+
+
