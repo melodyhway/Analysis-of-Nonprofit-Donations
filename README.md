@@ -2,23 +2,27 @@
 This is part of a portfolio project investigating the donations made to a non profit organization. 
 
 ## Introduction
-This dataset contains 1066 records of donations made towards a non-profit serving the San Francisco Community spanning from June 2024 to June 2025. The dataset contains donation dates, donation amounts, donor id, donor type, campaign id, fund allocation destination, records for recurring or annual donations. This project aims to use SQL to discover how donations are allocated, the source of donations analyzing the campaign year's effectiveness in gathering donations, analyzing the best times for donations, comparing donation amounts made by individuals vs corporations vs foundations to further discover how to effectively campaign for donors. This project will also help identify the biggest donors in the system and identify seasonal patterns in donations to better understand donation patterns and increase efforts in fundraising during certain times like holidays or events. 
+This dataset contains 1066 records of donations made towards a non-profit serving the San Francisco Community spanning from June 2024 to June 2025. The dataset contains donation dates, donation amounts, donor id, donor type, campaign id, fund allocation destination, records for recurring or annual donations. This project aims to use excel, SQL, and Tableau to discover how donations are allocated, the source of donations analyzing the campaign year's effectiveness in gathering donations, analyzing the best times for donations, comparing donation amounts made by individuals vs corporations vs foundations to further discover how to effectively campaign for donors. This project will also help identify the biggest donors in the system and identify seasonal patterns in donations to better understand donation patterns and increase efforts in fundraising during certain times like holidays or events. This project includes visualizations to better understand the insights of this donor database. 
 
 ### Caveats with the data
 While the data contains a rich variety of information, there were several instances of data logging errors including misaligned dates, total donation calculations, duplicate columns, errors in records, and blank values, these issues were addressed using data cleaning methods through Excel. For example, date errors were cross-validated using the original dataset to reference the proper dates, duplicate columns were deleted, errors in records were addressed using a XLOOKUP function to reassign proper values. Blank values were left blank in instances where that data could not be filled in. Overall blank rows only affected a small portion of each column so most were left as is. 
 
 ### Table Structure
 
-| Column Name | Data Type |
-| :------- | ------: |
-| Gift_Date  | Date  |
-| Gift_Amount| float  | 
-| Donor_id | VARCHAR  |
-| Gift_Constituency | VARCHAR  |
-| Campaign_id| VARCHAR  |
-| Fund List| VARCHAR  |
-| Appeal List| VARCHAR  |
+| Column Name | Data Type | Descriptor |
+| :------- | :------: | :-------|
+| Gift_Date  | Date  | Donation Date |
+| Gift_Amount| float  | Donation Amount (USD)|
+| Donor_id | string  | Donor (anonymized) |
+| Gift_Constituency | string  | Donor Type (individual, foundation, corporation etc)
+| Campaign_id| string  | AN24/AN25|
+| Fund List| string  | Donation Allocation data |
+| Appeal List| string  | Information on recurring or annual donations |
 
+# Executive Summary 
+## Overview of Findings
+
+For this non-profit organization, donations totaled $6830130 in the June 2024 -2025 fiscal year. 
 
 ### Stakeholder Questions
 1. What were the total donations during the June 2024 - June 2025 time period?
@@ -133,7 +137,7 @@ ORDER BY avg_donation DESC
 ```
 <img width="854" height="442" alt="Screenshot 2025-08-27 at 12 36 13 AM" src="https://github.com/user-attachments/assets/f7fc0924-86c3-4372-8479-dc55e8a15af9" />
 
-Planned Giving donors have the highest average donation amounts, followed by Foundation donations at an average donation amount of $50,618.74. 
+Planned Giving donors have the highest average donation amounts at $158,821.71, followed by Foundation donations at an average donation amount of $50,618.74. 
 
 ### 6. What is the percentage of donations made by each donor type?
 
@@ -152,7 +156,20 @@ This query shows that ~80% of the total donations made this fiscal year came fro
 
 ### 7. Where are the funds typically allocated towards? What is the percentage distribution? 
 
-Taking a look at the fundList column, we can get a sense for where the donations are distributed towards whether it be for general operations, work development programs, aging support programs, etc. 
+Taking a look at the fundList column, we can get a sense for where the donations are distributed towards whether it be for general operations, work development programs, aging support programs, etc. Most of the funds are directed towards general operations where funds can be allocated where they are needed rather than directed to a specific department.
 
+```
+SELECT fund_list,
+SUM(gift_amount) as total_donations, 
+ROUND((SUM(gift_amount)*100.0) / (SELECT SUM(gift_amount) FROM donations),4) AS percentage
+FROM donations
+GROUP BY fund_list
+ORDER BY percentage DESC
+```
 
+<img width="933" height="596" alt="Screenshot 2025-08-27 at 9 55 31 AM" src="https://github.com/user-attachments/assets/d7b1c9b9-30e4-4ceb-bb3b-99f3421dc613" />
+
+This shows that ~74% of the donations are typically allocated towards general operations, followed by 11% of the donations allocated towards the SUPHS department.
+
+### 8. What percentage of donations came from the top 10 donors?
 
