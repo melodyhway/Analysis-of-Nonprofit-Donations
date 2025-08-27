@@ -31,6 +31,34 @@ While the data contains a rich variety of information, there were several instan
 8. How diverse are the donations? Meaning what portion of donations were made by individuals, corporations, and foundations? Is there a need to diversify?
 9. Which campaigns were more effective in getting donations?
 
-## Total Donations 
+# Table Example
+```
+SELECT * FROM donations LIMIT 7;
+```
+<img width="1037" height="252" alt="Screenshot 2025-08-26 at 5 43 50 PM" src="https://github.com/user-attachments/assets/523014cc-47f0-4a7b-b2b8-d1cd934e8fc6" />
 
 
+
+### 1. Total Donations 
+```
+SELECT sum(gift_amount) as TOTAL_DONATIONS FROM donations;
+```
+<img width="164" height="64" alt="Screenshot 2025-08-26 at 5 28 55 PM" src="https://github.com/user-attachments/assets/be93bc90-a45c-4d30-be1c-3973800852b2" />
+
+The amount of donations totaled $6,921,752 for a period of 1 year from June 2024 to June 2025. 
+
+### 2. What is the monthly total and monthly average of donations?
+```
+SELECT Year, Month, 
+sum(gift_amount) AS donation_total, 
+avg(gift_amount) AS avg_donations 
+FROM donations
+GROUP BY Year, Month
+ORDER BY Year, Month;
+```
+
+<img width="949" height="421" alt="Screenshot 2025-08-26 at 5 52 34 PM" src="https://github.com/user-attachments/assets/efaf4428-aa3d-445c-9eaf-84246b433e5e" />
+
+Organized by year and month, sum of donations range from $38,549.01 to $1,371,161.52. The least amount of total donations occured in January 2025 and the highest amount of total donations occured in May 2025. Average monthly donations ranged from $700.89 to $28,239.77.
+
+### 3. 
