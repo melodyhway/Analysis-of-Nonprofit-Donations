@@ -25,7 +25,6 @@ While the data contains a rich variety of information, there were several instan
 A log of fixes can be found [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/ec97ac7fdaa82c0d7fb66a9f593de10ed51d0878/datafixes.md)
 
 
-
 Interactive Dashboard
 
-SQL queries to answer specific questions
+SQL queries to answer specific questions 
