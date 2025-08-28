@@ -1,40 +1,41 @@
-# Donations-Analysis-using-SQL
-This is part of a portfolio project investigating the donations made to a non profit organization. 
+# Project Background
 
-## Introduction
-This dataset contains 1066 records of donations made towards a non-profit serving the San Francisco Community spanning from June 2024 to June 2025. The dataset contains donation dates, donation amounts, donor id, donor type, campaign id, fund allocation destination, records for recurring or annual donations. This project aims to use excel, SQL, and Tableau to discover how donations are allocated, the source of donations analyzing the campaign year's effectiveness in gathering donations, analyzing the best times for donations, comparing donation amounts made by individuals vs corporations vs foundations to further discover how to effectively campaign for donors. This project will also help identify the biggest donors in the system and identify seasonal patterns in donations to better understand donation patterns and increase efforts in fundraising during certain times like holidays or events. This project includes visualizations to better understand the insights of this donor database. 
+This is a project analyzing non-profit donations for an organization that serves the San Francisco Bay Area. The data contains records of donations made from June 2024 to June 2025 including data on donation dates, donation amounts, donor id, donor type, campaign id, fund allocation destination, records for recurring or annual donations. This project aims to use Excel, SQL, and Tableau to discover how donations are allocated, donation sources, investigating the effectiveness of different events in gathering donations. This project will also help identify the biggest donors in the system and identify seasonal patterns in donations to better understand donation patterns and increase future fundraising efforts during certain times like holidays or hosted events. 
+
+Summary of Project:
 
 ### Caveats with the data
 While the data contains a rich variety of information, there were several instances of data logging errors including misaligned dates, total donation calculations, duplicate columns, errors in records, and blank values, these issues were addressed using data cleaning methods through Excel. For example, date errors were cross-validated using the original dataset to reference the proper dates, duplicate columns were deleted, errors in records were addressed using a XLOOKUP function to reassign proper values. Blank values were left blank in instances where that data could not be filled in. Overall blank rows only affected a small portion of each column so most were left as is. 
 
-### Table Structure
+### Data Structure
 
 | Column Name | Data Type | Descriptor |
 | :------- | :------: | :-------|
 | Gift_Date  | Date  | Donation Date |
 | Gift_Amount| float  | Donation Amount (USD)|
 | Donor_id | string  | Donor (anonymized) |
-| Gift_Constituency | string  | Donor Type (individual, foundation, corporation etc)
-| Campaign_id| string  | AN24/AN25|
+| Gift_Constituency | string  | Donor Type |
+| Campaign_List| string  | AN24/AN25|
 | Fund List| string  | Donation Allocation data |
 | Appeal List| string  | Information on recurring or annual donations |
 
 # Executive Summary 
 ## Overview of Findings
 
-For this non-profit organization, donations totaled $6830130 in the June 2024 -2025 fiscal year. 
+For this non-profit organization, donations totaled $6,830,130 in the June 2024 -2025 fiscal year. 
 
+
+# Insights 
 ### Stakeholder Questions
 1. What were the total donations during the June 2024 - June 2025 time period?
 2. What is the monthly total and monthly average of donations? Are there months that receive higher donations than others?
 3. What is the seasonlity in donations? Do certain months perform better than others? 
 4. Who are the top 5 largest donors? Who are the top 5 individual donors, foundation donors, and corporation donors.
 5. What is the average donation size by gift constituency?
-6. What is the percentage of donations made according to each donor type?
-7. Where are the funds typically allocated towards? What is the percentage distribution? 
-8. What percentage of donations came from the top 10 donors?
-9. How diverse are the donations? Meaning what portion of donations were made by individuals, corporations, and foundations? Is there a need to diversify?
+6. How diverse are the donations? What portion of donations were made by individuals, corporations, foundations etc. Is there a need to diversify?
+7. Where are the funds allocated towards? What is the percentage distribution? 
 10. Which campaigns were more effective in getting donations?
+11. Who are the monthly recurring donors and how much are they donating on average?
 
 # Table Example
 ```
@@ -172,4 +173,8 @@ ORDER BY percentage DESC
 This shows that ~74% of the donations are typically allocated towards general operations, followed by 11% of the donations allocated towards the SUPHS department.
 
 ### 8. What percentage of donations came from the top 10 donors?
+
+
+
+# Recommendation
 
