@@ -8,6 +8,9 @@ This contains a record of the changes made to the data during the cleaning and m
 4. 36/1066 rows in the gift_constituency column were blank. At only 3.3% of the data and being unable to fill in the data, they were left blank.
 5. Campaign_list column contained 11 blank rows. 
 6. A large portion of the fund_list column was cleaned using a lookup table to reference the proper columns. Where some rows contained extra lines, they could be fixed by referring them to general operations (GENOP) or its corresponding name. 
-  For example some rows were recorded as "-----; GENOP" and was then adjusted to "GENOP".
+  For example certain rows were recorded as "-----; GENOP" and was then adjusted to "GENOP".
 7. The appeal_list column contained 27 blank rows and couldn't be filled in. 
-8. Extra columns in the dataset were removed due to its insignificance or sensitivity.
+8. Extra columns in the dataset were removed due to its insignificance or sensitivity issues.
+9. Duplicate columns for dates were created during the data merging step and the duplicate was subsequently deleted after verifying that it contained the same information.
+
+For example, date errors were cross-validated using the original dataset to reference the proper dates, duplicate columns were deleted, errors in records were addressed using a XLOOKUP function to reassign proper values. Blank values were left blank in instances where that data could not be filled in. Overall blank rows only affected a small portion of each column so most were left as is. 
