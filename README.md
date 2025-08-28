@@ -25,12 +25,31 @@ While the data contains a rich variety of information, there were several instan
 A log of fixes can be found [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/ec97ac7fdaa82c0d7fb66a9f593de10ed51d0878/datafixes.md)
 
 
-Interactive Dashboard
+Interactive Dashboard can be found [here](https://public.tableau.com/views/Analysisofnon-profitdonations/Non-ProfitDonationsDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 Find the SQL queries to answer specific questions [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/8f98b82866f7878f72b89d0c21ab47cf334d4a83/SQLqueries.md)
 
 # Overview of Findings 
-This dataset on the donations made during June 2024 to June 2025 found that a total of 
+This dataset on the donations made during June 2024 to June 2025 found that a total of $6,830,130.33 were donated to the organization. The top performing months occured during May 2025, June 2024, and December 2024. A large portion of the donations were made by Foundation donors indicating possible partnerships with these foundations that could further increase donation efforts. 
+
+
+<img width="1998" height="1598" alt="Non-Profit Donations Dashboard (2)" src="https://github.com/user-attachments/assets/36efa0e5-d2fb-42a3-bae8-4fe271bb0066" />
+
+### Overall Donation Trends
+Donations peaked in May 2025 and when analyzing the donations made during May, it seems that a lot of the donations were made in support of the Chef Gala designed to support programs in supporting people entering the workforce by providing training and jobs to the non-profits participants. This graph shows how the chef gala accounted for $261,510 of donations made during May 2025. The rest are a variety of funding efforts from different organizations. 
+
+<img width="2106" height="1590" alt="chef gala fundraising efforts" src="https://github.com/user-attachments/assets/8cf79012-1367-4aad-81cf-c7bec6c52625" />
+
+In analyzing the proportion of donor types by month, this graph shows that a majority of donations made each month are covered by Foundation donations. This makes sense as Foundations often have more funds to support non-profit organizations. 80.78% of the total donations were made by foundations, followed by 7.22% made by Individual donors.
+
+<p align = "middle">
+  <img width="400" height = "500" alt = "Monthly Donor Distribution" src="https://github.com/user-attachments/assets/875ba0bb-89f5-4c31-bf10-cb0a4ef64b0d" />
+  <img width="400" height = "500" alt = "Total Donor Distribution" src="https://github.com/user-attachments/assets/9e481305-cc06-4749-b587-9d5ae949dbd5" />
+</p>
+
+
+
+
 
 
 
