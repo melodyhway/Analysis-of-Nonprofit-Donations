@@ -3,7 +3,7 @@ Log of Data Fixes
 This contains a record of the changes made to the data during the cleaning and merging process. Data cleaning and merging was done using Excel and PowerQuery on Excel.
 
 1. Extracted Year and Month data from gift_date columns.
-2. Converted gift_amount to number format.
+2. Converted gift_amount to number format instead of dollar formatting.
 3. Donor names were anonymized and referenced using lookup tables.
 4. 36/1066 rows in the gift_constituency column were blank. At only 3.3% of the data and being unable to fill in the data, they were left blank.
 5. Campaign_list column contained 11 blank rows. 
