@@ -12,5 +12,3 @@ This contains a record of the changes made to the data during the cleaning and m
 7. The appeal_list column contained 27 blank rows and couldn't be filled in. 
 8. Extra columns in the dataset were removed due to its insignificance or sensitivity issues.
 9. Duplicate columns for dates were created during the data merging step and the duplicate was subsequently deleted after verifying that it contained the same information.
-
-For example, date errors were cross-validated using the original dataset to reference the proper dates, duplicate columns were deleted, errors in records were addressed using a XLOOKUP function to reassign proper values. Blank values were left blank in instances where that data could not be filled in. Overall blank rows only affected a small portion of each column so most were left as is. 
