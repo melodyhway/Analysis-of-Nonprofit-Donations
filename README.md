@@ -25,7 +25,7 @@ While the data contains a rich variety of information, there were several instan
 A log of fixes can be found [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/ec97ac7fdaa82c0d7fb66a9f593de10ed51d0878/datafixes.md)
 
 
-Interactive Dashboard can be found [here](https://public.tableau.com/views/Analysisofnon-profitdonations/Non-ProfitDonationsDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+An Interactive Tableau Dashboard can be found [here](https://public.tableau.com/views/Analysisofnon-profitdonations/Non-ProfitDonationsDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 Find the SQL queries to answer specific questions [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/8f98b82866f7878f72b89d0c21ab47cf334d4a83/SQLqueries.md)
 
@@ -33,15 +33,17 @@ Find the SQL queries to answer specific questions [here](https://github.com/melo
 This dataset on the donations made during June 2024 to June 2025 found that a total of $6,830,130.33 were donated to the organization. The top performing months occured during May 2025, June 2024, and December 2024. A large portion of the donations were made by Foundation donors indicating possible partnerships with these foundations that could further increase donation efforts. Some events hosted during certain times could also have an impact of the amount of donations. Notably, in May the Chef Gala was held increasing funding efforts. There was also End Of Year events that also have an impact on the donations made. Throughout this project, we will uncover inisghts about donor types, campaigns and events in order to gain a better understanding of the June 2024 - 2025 donation performance. 
 
 ## Dashboard Overview 
+<img width="1998" height="1598" alt="Non-Profit Donations Dashboard (2) (1)" src="https://github.com/user-attachments/assets/44db9f74-f07a-4c87-b183-9a0bd5e03717" />
 
-<img width="1998" height="1598" alt="Non-Profit Donations Dashboard (2)" src="https://github.com/user-attachments/assets/f4076530-7fbe-4548-945e-76b2c61e6403" />
+
 
 ### Overall Donation Trends
 
 
 Taking a look at the overall donation trends, we see that June 2024, May 2025, and December 2024 performed exceptionally well as compared to other months. Interestingly, the numbers at each month indicates the total number of unique donors and we see that May received a total of 203 unique donations where as June, at a similar sum of total donations, received only 46 donations. This is interesting and may require further investigation through analyzing more granular information such as the importance of events or even the introduction of a new partnership. December also has a high volume of unique donations but didn't acheive similar amounts of total donations. 
 
-<img width="700" height="1600" alt="monthly donations (2)" src="https://github.com/user-attachments/assets/b2100d82-3757-469b-9cb7-388e017b155d" />
+<img width="1802" height="1590" alt="monthly donations" src="https://github.com/user-attachments/assets/1c51d89f-a1a8-4f63-b217-e5fdbe8805d1" />
+
 
 <img width="2704" height="302" alt="monthly donations (2) (2)" src="https://github.com/user-attachments/assets/1e61dc91-a124-4985-9c0b-8c783f81f987" />
 
