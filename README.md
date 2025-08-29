@@ -32,18 +32,16 @@ Find the SQL queries to answer specific questions [here](https://github.com/melo
 # Overview of Findings 
 This dataset on the donations made during June 2024 to June 2025 found that a total of $6,830,130.33 were donated to the organization. The top performing months occured during May 2025, June 2024, and December 2024. A large portion of the donations were made by Foundation donors indicating possible partnerships with these foundations that could further increase donation efforts. Some events hosted during certain times could also have an impact of the amount of donations. Notably, in May the Chef Gala was held increasing funding efforts. There was also End Of Year events that also have an impact on the donations made. Throughout this project, we will uncover inisghts about donor types, campaigns and events in order to gain a better understanding of the June 2024 - 2025 donation performance. 
 
+\{Summary of Findings after being done\}
+
 ## Dashboard Overview 
 <img width="1998" height="1598" alt="Non-Profit Donations Dashboard (2) (1)" src="https://github.com/user-attachments/assets/44db9f74-f07a-4c87-b183-9a0bd5e03717" />
 
-
-
 ### Overall Donation Trends
 
-
-Taking a look at the overall donation trends, we see that June 2024, May 2025, and December 2024 performed exceptionally well as compared to other months. Interestingly, the numbers at each month indicates the total number of unique donors and we see that May received a total of 203 unique donations where as June, at a similar sum of total donations, received only 46 donations. This is interesting and may require further investigation through analyzing more granular information such as the importance of events or even the introduction of a new partnership. December also has a high volume of unique donations but didn't acheive similar amounts of total donations. 
+Taking a look at the overall donation trends, we see that June 2024, May 2025, and June 2025 performed exceptionally well compared to other months. Notably, the donor counts vary quite qidely across these top performing months. We see that May received 203 unqiue donations where June 2024, at similar donation totals, received only 46 unique donations. This may uncover an interesting discovery especially when we look at the hosted events during these times, analyze the distribution of donor types, or even the introduction of a new partnership. December also has a high volume of unique donations but didn't acheive similar amounts of total donations. 
 
 <img width="1802" height="1590" alt="monthly donations" src="https://github.com/user-attachments/assets/1c51d89f-a1a8-4f63-b217-e5fdbe8805d1" />
-
 
 <img width="2704" height="302" alt="monthly donations (2) (2)" src="https://github.com/user-attachments/assets/1e61dc91-a124-4985-9c0b-8c783f81f987" />
 
