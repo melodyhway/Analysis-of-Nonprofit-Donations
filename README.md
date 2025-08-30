@@ -73,7 +73,10 @@ In analyzing the proportion of donor types by month, this graph shows that a maj
 
 
 
+## OVerall donation Allocation 
+Most of the donations were designated towards general operations. $5 million were reserved for General Operations and 11.88% of total donations were allocated to the SUPHS department. 
 
+<img width="2450" height="1590" alt="pie fund allocation (2)" src="https://github.com/user-attachments/assets/c650ed4a-0160-4005-8682-2a56a226135c" />
 
 
 
