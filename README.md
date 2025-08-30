@@ -14,7 +14,7 @@ The donations contains 1066 records on the donations made during the June 2024 -
 | Gift_Date  | Date  | Donation Date |
 | Gift_Amount| float  | Donation Amount (USD)|
 | Donor_id | string  | Donor (anonymized) |
-| Gift_Constituency | string  | Donor Type (individual, foundation, corporation etc) |
+| Gift_Constituency | string  | Donor Type (individual, foundation, corporation, etc) |
 | Campaign_id| string  | AN24/AN25 |
 | Fund List| string  | Donation Allocation data |
 | Appeal List| string  | Information on recurring or annual donations |
@@ -35,17 +35,25 @@ This dataset on the donations made during June 2024 to June 2025 found that a to
 \{Summary of Findings after being done\}
 
 ## Dashboard Overview 
-<img width="1998" height="1598" alt="Non-Profit Donations Dashboard (2) (1)" src="https://github.com/user-attachments/assets/44db9f74-f07a-4c87-b183-9a0bd5e03717" />
+
+<img width="1998" height="1598" alt="Non-Profit Donations Dashboard (2)" src="https://github.com/user-attachments/assets/db76b78c-8f25-4107-99bf-eb4474ca3c52" />
+
 
 ### Overall Donation Trends
 
-Taking a look at the overall donation trends, we see that June 2024, May 2025, and June 2025 performed exceptionally well compared to other months. Notably, the donor counts vary quite qidely across these top performing months. We see that May received 203 unqiue donations where June 2024, at similar donation totals, received only 46 unique donations. This may uncover an interesting discovery especially when we look at the hosted events during these times, analyze the distribution of donor types, or even the introduction of a new partnership. December also has a high volume of unique donations but didn't acheive similar amounts of total donations. 
+Taking a look at the overall donation trends, we see that June 2024, May 2025, and June 2025 performed exceptionally well compared to other months. Notably, the donor counts vary quite widely across these top performing months. We see that May received 203 unqiue donations where June 2024, at similar donation totals, received only 46 unique donations. This may uncover an interesting discovery especially when we look at the hosted events during these times, analyze the distribution of donor types, or even the introduction of a new partnership. December also has a high volume of unique donations but didn't acheive similar amounts of total donations. 
 
 <img width="1802" height="1590" alt="monthly donations" src="https://github.com/user-attachments/assets/1c51d89f-a1a8-4f63-b217-e5fdbe8805d1" />
 
-<img width="2704" height="302" alt="monthly donations (2) (2)" src="https://github.com/user-attachments/assets/1e61dc91-a124-4985-9c0b-8c783f81f987" />
 
-This graph shows the percentage change in donations per month where the red represents larger dips and greens represent larger percentage increases in donations. 
+<img width="2704" height="302" alt="percenage change in donation amount" src="https://github.com/user-attachments/assets/edf2dd8f-fda9-45c6-8a58-a66c7c459805" />
+
+This graph showing the Month-over-Month percentage change in donations shows how donation amounts flutuate over the fiscal year. It seems that december had a large spike compared to November at a 302.11% increase in donations and donations decreased once again in the January, Feburary months. However, it seems that there was a 801% increase increase in donations again during the April and a 49.75% increase in May. This increase in donations merits further investigation through an analysis of events or donation volume during these times. 
+
+<img width="2224" height="342" alt="Percentage Change in Donation Volume" src="https://github.com/user-attachments/assets/d26c9339-476f-450e-b670-cca9f19d7a5c" />
+
+Analyzing the donation volumes, we again see a similar pattern in fluctuations. There is a peak in total donation volume in May and another peak in donation volume in December. 
+
 
 #### Impacts of certain events like Chef Gala, Holiday Gift Drive.
 
