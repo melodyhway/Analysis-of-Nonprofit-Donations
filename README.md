@@ -88,6 +88,17 @@ Most of the donations were designated towards general operations. $5 million wer
 
 
 
+
+# Recommendations
+
+* make recommendations based on the data. focus on what donor types, can we encourage more foundation donors, individual donors?
+
+* what can we look for in donations
+
+* can we host more events during down times.
+
+* work with marketing and fundraising teams to increase donations 
+
 Stakeholder Questions: 
 1. What were the total donations during the June 2024 - June 2025 time period?
 2. What is the monthly total and monthly average of donations? Are there months that receive higher donations than others?
