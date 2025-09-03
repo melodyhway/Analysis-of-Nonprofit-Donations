@@ -63,17 +63,21 @@ Taking a look at the overall donation trends, we see that July 2024, May 2025, a
 <img width="2224" height="342" alt="Percentage Change in Donation Volume" src="https://github.com/user-attachments/assets/1c53d001-2ca1-4158-935e-8b18a75563dd" />
 
 
-* Analyzing the donation volumes, we again see similar fluctuation patterns.
-* We see a peak in total donation volume in May and another peak in December. This can be explained by the hosted Chef Gala in May and holiday operations in December.
-* These peaks show how campaing events can impact our donations throughout the year. It could be important to consider how we can implement smaller scale campaigns to encourage further donations throughout the year, especially during low donations times. 
+* Analyzing donation volumes, we again see similar fluctuation patterns.
+* We see a peak in total donation volume in May and another peak in December. This can be explained by the hosted Chef Gala in May and common holiday operations in December.
+* These peaks show how campaingn events can impact our donations throughout the year. It could be important to consider how we can implement smaller scale campaigns to encourage further donations throughout the year, especially during low donations times. 
 
 
-#### Impacts of certain events like Chef Gala, Holiday Gift Drive.
+#### Digging Deeper into May and December
 
-Donations peaked in May 2025 and it seems that a portion of donations were made made in support of the Chef Gala designed to support educational and workforce programs. This graph shows how the chef gala accounted for $261,510 of donations made during May 2025. The rest are a variety of funding efforts from different organizations. 
+Donations/donation volume peaked in May 2025 and it seems that a portion of donations were made in support of the Chef Gala to support educational and workforce programs. This graph shows how the Chef Gala accounted for $261,510 of donations made during May 2025. 
 
-<img width="2106" height="1590" alt="chef gala fundraising efforts" src="https://github.com/user-attachments/assets/8cf79012-1367-4aad-81cf-c7bec6c52625" />
+<img width="2116" height="1642" alt="Sheet 36 (1)" src="https://github.com/user-attachments/assets/72860ab1-561b-4bea-89e8-8c8f1c3ab3a9" />
 
+* We see that there was a total of 181 donations made towards the chef gala accounting for 19% of donations made during May 2025. The other 81% are other donation types not accounted for in the Chef Gala function.
+* The high volume of donations is explained by the Chef Gala where donations made were likely made by in small amounts through ticket sales or merchandise sales.
+
+* 
 
 # Donor Insights
 
