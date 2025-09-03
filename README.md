@@ -96,18 +96,26 @@ Most donations are designated towards general operations. $5 M were reserved for
 
 # Top Donors and Recurring Donors
 
-Our recurring donors, where recurring counts as donations made monthly over the year, were comprised of corporation, individual, and foundation donors. Most monthly donations were made by Individual donor types. Due to the nature of Individual donors, these tend to be smaller monthly amounts accounting for the smaller portion of the total donation amount. However, it does show that individual donors are still very important in our campaigning efforts.
+Our recurring donors, donations made monthly over the year, were comprised of corporation, individual, and foundation donors. Most monthly donations were made by Individual donor types. These donations tend to be smaller monthly amounts but over time add up to account for a relatively strong portion of our total donations. It does show that individual donors are still very important in our campaigning efforts as they are more likely to donate every month and continue demonstrating support for our cause.
 
 <img width="804" height="1328" alt="Recurring Donors" src="https://github.com/user-attachments/assets/bf83ec4f-878f-4be1-acd9-ee2901357cdf" />
 
+<img width="1998" height="1598" alt="Dashboard 3" src="https://github.com/user-attachments/assets/16577993-7022-4efa-9dc9-747b86a3f2d9" />
 
 # Recommendations
 
+* Foundation donors contribute 80% of total donations indicating strong relationships with Foundation partners. This could mean that we could foster these relationships to continue partnerships but also a potential overreliance on these foundations.
+
+* Because individual donors make up the next largest portion of donations, it would be wise to continue to encoruage these donations through hosting events.
+  
+* It seems like events like the Holiday Gift Drive or Galas such as the Chef Gala encourage seasonal peaks in donations that the organization could build on by hosting similar events in support of fundraising efforts.
+*   We could work more effectively with marketing and donation teams to further increase fundraising efforts especially with our individual donors.
+
+*   
 * make recommendations based on the data. focus on what donor types, can we encourage more foundation donors, individual donors?
 
 * what can we look for in donations
 
-* can we host more events during down times.
 
 * work with marketing and fundraising teams to increase donations 
 
