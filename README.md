@@ -28,7 +28,7 @@ A log of fixes can be found [here](https://github.com/melodyhway/Donations-Analy
 An Interactive Tableau Dashboard can be found [here](https://public.tableau.com/views/Analysisofnon-profitdonations/Non-ProfitDonationsDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Analysisofnon-profitdonations/Non-ProfitDonationsDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/Analysisofnon-profitdonations/Non-ProfitDonationsDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)).
 
 
-Find the SQL queries to answer specific questions [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/8f98b82866f7878f72b89d0c21ab47cf334d4a83/SQLqueries.md)
+Find the SQL queries for answers to specific questions [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/8f98b82866f7878f72b89d0c21ab47cf334d4a83/SQLqueries.md)
 
 # Overview of Findings 
 This dataset on the donations made during June 2024 to June 2025 found that a total of $6,830,130.33 was donated to the organization. The top performing months occured during May 2025, June 2024, June 2025, and December 2024. A large portion of the donations were made by Foundation donors indicating possible partnerships that could further increase donation efforts. Some events hosted during certain times could also have an impact of the amount of donations. Notably, in May, the Chef Gala was held increasing funding efforts resulting in a peak in donation volume. Throughout this project, we will uncover inisghts about donor types, campaigns and events in order to gain a better understanding of the June 2024 - 2025 donation performance. We will also learn how donations are allocated towards different departments throghout the organization. 
@@ -58,7 +58,8 @@ Taking a look at the overall donation trends, we see that June 2024, May 2025, a
   
 ### Donor Fluctuations
 
-<img width="2224" height="342" alt="Percentage Change in Donation Volume" src="https://github.com/user-attachments/assets/d26c9339-476f-450e-b670-cca9f19d7a5c" />
+<img width="2224" height="342" alt="Percentage Change in Donation Volume" src="https://github.com/user-attachments/assets/1c53d001-2ca1-4158-935e-8b18a75563dd" />
+
 
 Analyzing the donation volumes, we again see a similar pattern in fluctuations. There is a peak in total donation volume in May and another peak in donation volume in December. 
 
@@ -76,7 +77,9 @@ In analyzing the proportion of donor types by month, this graph shows that a maj
   <img width="450" height = "700" alt = "Total Donor Distribution" src="https://github.com/user-attachments/assets/9e481305-cc06-4749-b587-9d5ae949dbd5" />
 </p>
 
-#### Individual Donors
+
+#### Foundation Donors
+Because we have found that Fondation donors make up a large portion of our donations, it is important to foster stronger relationships with these foundations. 
 
 
 
