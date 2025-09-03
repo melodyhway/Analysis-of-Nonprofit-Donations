@@ -1,9 +1,6 @@
 # Project Background
 
-This project analyzes non-profit donations for an organization that serves the San Francisco Bay Area. The data contains records of donations made from July 2024 to June 2025 including data on donation dates, donation amounts, donor id, donor type, campaign id, fund allocation destination, records for recurring or annual donations. This project aims to use Excel, SQL, and Tableau to discover how donations are allocated, donation sources, investigating the effectiveness of different events in gathering donations. This project will also help identify the biggest donors in the system and identify seasonal patterns in donations to better understand donation patterns and increase future fundraising efforts during certain times like holidays or hosted events. 
-
-Summary:
-## Insights and Recommendations 
+This project analyzes non-profit donations for an organization that serves the San Francisco Bay Area. The data contains records of donations made from July 2024 to June 2025 including data on donation dates, donation amounts, donor id, donor type, campaign id, fund allocation destination, records for recurring or annual donations. This project aims to use Excel, SQL, and Tableau to discover how donations are allocated, donation sources, and investigating the effectiveness of different events in gathering donations. This project will also help identify the biggest donors in the system and identify seasonal patterns in donations to better understand donation patterns and increase future fundraising efforts during certain times like holidays or hosted events. 
 
 
 ## Data Structure and Data Validation
@@ -30,8 +27,10 @@ An Interactive Tableau Dashboard can be found [here](https://public.tableau.com/
 
 Find the SQL queries for answers to specific questions [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/8f98b82866f7878f72b89d0c21ab47cf334d4a83/SQLqueries.md)
 
+
 # Overview of Findings
-An analysis of donations made during July 2024 to June 2025 found that a total of $6.83 M were donated to this non-profit organization. The top performing months occurred during May 2025, July 2024, June 2025, and December 2024. A large portion of donations were made by Foundation donors, followed by Individual donors. Some events hosted during these high impact months also certainly have an impact on donation amounts such as hosted galas, or holiday season donations. Notably, in May, the Chef Gala increased funding efforts resulting in a peak in donation volume and amount. Throughout this project, we will uncover inisghts about donor types, campaigns, and events in order to gain a better understanding of the July 2024 - 2025 donation performance. We will also learn how donations are allocated towards different departments throughout the organization. Using this data, we can make data-informed recommendations for our organization for fundraising strategies and increasing donation efforts for future years. 
+
+An analysis of donations made during July 2024 to June 2025 found that a total of $6.83 M were donated to our non-profit organization. The top performing months occurred during May 2025, July 2024, June 2025, and December 2024. A large portion of donations were made by Foundation donors, followed by Individual donors. Some events hosted during these high impact months also certainly have an impact on donation amounts such as hosted galas, or holiday season donations. Notably, in May, the Chef Gala increased funding efforts resulting in a peak in donation volume and amount. Throughout this project, we will uncover inisghts about donor types, campaigns, and events in order to gain a better understanding of the July 2024 - 2025 donation performance. We will also learn how donations are allocated towards different departments throughout the organization. Using this data, we can make data-informed recommendations for our organization for fundraising strategies, media campaigns, and increasing donation efforts for future years as well as ensure that we mitigate donations risks by diversifying potential donor types. 
 
 
 ## Dashboard Overview 
@@ -41,9 +40,13 @@ An analysis of donations made during July 2024 to June 2025 found that a total o
 
 ### Overall Donation Trends
 
-Taking a look at the overall donation trends, we see that July 2024, May 2025, and June 2025 performed exceptionally well compared to other months. Notably, the donor counts vary quite widely across these top performing months. We see that May received 203 unique donations where June 2024, at similar donation totals, received only 46 unique donations. This is interesting as we investigate further into the events, distribtuion of donor type, or even the introduction of a new partnership. Furthermore, even though December had a high volume of donations, it didn't receive the same total amounts as compared to May and June.
+Taking a look at the overall donation trends, we see that July 2024, May 2025, and June 2025 performed exceptionally well compared to other months. Notably, the donor counts vary quite widely across these top performing months. 
+* We see that May received 227 donations where July 2024, with similar donation totals only received 47 donations.
+* Even though December had a relatively high volume of donations, it didn't receive the same total amounts as compared to May and June.
+* This relationship between total donations and volume could be further explored by examining the campaigns that occurred during these months. 
 
-<img width="1802" height="1590" alt="monthly donations" src="https://github.com/user-attachments/assets/1c51d89f-a1a8-4f63-b217-e5fdbe8805d1" />
+<img width="2394" height="1590" alt="Monthly donation amt and volume" src="https://github.com/user-attachments/assets/4ada15b1-b609-4ffd-ac5f-a41583a3c079" />
+
 
 ### Month over Month Changes in Donations 
 
@@ -51,9 +54,9 @@ Taking a look at the overall donation trends, we see that July 2024, May 2025, a
 
 * There were strong fluctuations in donations throughout the year.
   
-* The June fiscal year starts off strong with a total donation amount of $1,341,794 but over the next following months, donations had decreased quite a bit compared to July 2024. During the holiday season (ie November and December) we see a strong increase in donations. Notably, December 2024 experienced a 302% increase in donations.
+* The July fiscal year starts off strong with a total donation amount of $1.3M but over the next following months, donations had decreased quite a bit compared to the beginning of the year. During the holiday season (i.e., November and December) we again see a strong increase in donations raising close to $1M in donations experiencing a 302% increase in total donations amounts from November.
   
-* In the new year, donations again slowed down but picked right back up in April and May 2025 with May donations increasing by 801.59%.
+* In the new year, donations again slowed down but picked right back up in April and May 2025 with May donations increasing by 801% from the previous month.
   
 ### Month over Month Changes in Donation Volume
 
