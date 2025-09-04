@@ -13,8 +13,8 @@ The data contains 1066 records on the donations made during the July 2024 - 2025
 | Donor_id | string  | Donor (anonymized) |
 | Gift_Constituency | string  | Donor Type (individual, foundation, corporation, etc) |
 | Campaign_id| string  | AN24/AN25 |
-| Fund List| string  | Donation Allocation data |
-| Appeal List| string  | Information on recurring or annual donations |
+| Fund_List| string  | Donation Allocation data |
+| Appeal_List| string  | Information on recurring or annual donations |
 
 ### Caveats with the data
 While the data contains a rich variety of information, there were several instances of data logging errors including misaligned dates, total donation calculations, duplicate columns, errors, and blank values. These issues were addressed using data cleaning methods through Excel. 
