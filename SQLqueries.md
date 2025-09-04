@@ -1,4 +1,17 @@
 
+Stakeholder Questions: 
+1. What were the total donations during the July 2024 - June 2025 time period?
+2. What is the monthly total and monthly average of donations? Are there months that receive higher donations than others?
+3. What is the seasonality in donations? Do certain months perform better than others? 
+4. Who are the top 5 largest donors? Who are the top 5 individual donors, foundation donors, and corporation donors.
+5. What is the donor retention rate month-to-month?
+6. What is the average donation size by gift constituency?
+7. Where are the funds typically allocated towards? What is the percentage distribution? 
+8. What percentage of donations came from the top 10 donors?
+9. How diverse are the donations? Meaning what portion of donations were made by individuals, corporations, and foundations? Is there a need to diversify?
+10. Which campaigns were more effective in getting donations?
+
+
 # Table Example
 ```
 SELECT * FROM donations LIMIT 7;
