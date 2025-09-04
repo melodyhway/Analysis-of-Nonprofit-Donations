@@ -34,15 +34,16 @@ An analysis of donations made during July 2024 to June 2025 found that a total o
 
 
 ## Dashboard Overview 
+<img width="1998" height="1598" alt="offical dashboard" src="https://github.com/user-attachments/assets/8df050ac-2325-443c-86e4-2a085f1f29f9" />
 
-<img width="1998" height="1598" alt="Non-Profit Donations Dashboard (2)" src="https://github.com/user-attachments/assets/db76b78c-8f25-4107-99bf-eb4474ca3c52" />
+
 
 
 ### Overall Donation Trends
 
 Taking a look at the overall donation trends, we see that July 2024, May 2025, and June 2025 performed exceptionally well compared to other months. Notably, the donor counts vary quite widely across these top performing months. 
-* We see that May received 227 donations where July 2024, with similar donation totals only received 47 donations.
-* Even though December had a relatively high volume of donations, it didn't receive the same total amounts as compared to May and June.
+* We see that May received 227 donations, whereas July 2024, with similar donation totals only received 47 donations.
+* Even though December had a relatively high volume of donations, it didn't receive the same donations amounts as compared to May and June.
 * This relationship between total donations and volume could be further explored by examining the campaigns that occurred during these months. 
 
 <img width="2394" height="1590" alt="Monthly donation amt and volume" src="https://github.com/user-attachments/assets/4ada15b1-b609-4ffd-ac5f-a41583a3c079" />
@@ -54,7 +55,7 @@ Taking a look at the overall donation trends, we see that July 2024, May 2025, a
 
 * There were strong fluctuations in donations throughout the year.
   
-* The July fiscal year starts off strong with a total donation amount of $1.3M but over the next following months, donations had decreased quite a bit compared to the beginning of the year. During the holiday season (i.e., November and December) we again see a strong increase in donations raising close to $1M in donations experiencing a 302% increase in total donations amounts from November.
+* The July fiscal year starts off strong with a total donation amount of $1.3M but over the next following months, donations had decreased quite a bit compared to the beginning of the year. During the holiday season (i.e., November and December), we again see a strong increase in donations with close to $1M in donations seeing a 302% increase in total donations.
   
 * In the new year, donations again slowed down but picked right back up in April and May 2025 with May donations increasing by 801% from the previous month.
   
@@ -70,14 +71,12 @@ Taking a look at the overall donation trends, we see that July 2024, May 2025, a
 
 #### Digging Deeper into May and December
 
-Donations/donation volume peaked in May 2025 and it seems that a portion of donations were made in support of the Chef Gala to support educational and workforce programs. This graph shows how the Chef Gala accounted for $261,510 of donations made during May 2025. 
+Donations/donation volume peaked in May 2025 and it seems that a portion of donations were made in support of the Chef Gala to support educational and workforce programs. This graph shows how the Chef Gala accounted for $261,510 of donations made during May 2025. However, it only accounts for a small portion of the total May donations. 
 
 <img width="2116" height="1642" alt="Sheet 36 (1)" src="https://github.com/user-attachments/assets/72860ab1-561b-4bea-89e8-8c8f1c3ab3a9" />
 
 * We see that there was a total of 181 donations made towards the chef gala accounting for 19% of donations made during May 2025. The other 81% are other donation types not accounted for in the Chef Gala function.
-* The high volume of donations is explained by the Chef Gala where donations made were likely made by in small amounts through ticket sales or merchandise sales.
-
-* 
+* The high volume of donations is explained by the Chef Gala where donations made were likely made in small amounts through ticket sales or merchandise sales.
 
 # Donor Insights
 
@@ -85,7 +84,7 @@ Donations/donation volume peaked in May 2025 and it seems that a portion of dona
   
 * 7.22% are made by Individual donors.
   
-* Foundations are likely the largest partners in the non-profit allowing for the organization to host new events in partnership increasing donation efforts. Interestingly, because Individuals are the next highest percentage, it is important to acknowledge the strong impacts that individual donors make on the organization. This means that the organization could further individual funding efforts through community outreach efforts using social media, or in person fundraising methods. 
+* Foundations are largest donors to the non-profit allowing for the organization to host new events in partnership, increasing donation efforts. Interestingly, because Individuals are the next highest percentage, it is important to acknowledge the strong impacts that individual donors make on the organization. This means that the organization could further individual funding efforts through community outreach efforts using social media, or in person fundraising methods. 
 
 <p align = "middle">
   <img width="450" height = "700" alt = "Monthly Donor Distribution" src="https://github.com/user-attachments/assets/875ba0bb-89f5-4c31-bf10-cb0a4ef64b0d" />
@@ -94,20 +93,24 @@ Donations/donation volume peaked in May 2025 and it seems that a portion of dona
 
 # Top Donors and Recurring Donors
 
-Our recurring donors, defined by the donations made monthly throughout the year, were comprised of corporation, individual, and foundation donors. Most recurring monthly donations were made by Individual donor types. These donations tend to be smaller monthly amounts but over time but add up to account for a relatively strong portion of our total donations. It does show that individual donors are still very important in our campaigning efforts as they are more likely to donate every month and continue demonstrating support for our cause.
+Our recurring donors, defined by the donations made monthly throughout the year, were comprised of corporation, individual, and foundation donors. Most recurring monthly donations were made by Individual donor types. These donations tend to be smaller monthly amounts but over time but add up to account for a relatively strong portion of our total donations. It shows that Individual donors are still very important in our campaigning efforts as they are more likely to donate every month and continue demonstrating support for our cause.
 
 
 <img width="1998" height="1598" alt="Dashboard 3" src="https://github.com/user-attachments/assets/16577993-7022-4efa-9dc9-747b86a3f2d9" />
 
+* Donor 1002, a foundation donor donated 11 times over the year accounting for 772K in total donations.
+
+* There are many donors that make recurring donations throughout the year. 
+  
 ## Top Donors by Type
 
-<img width="1916" height="640" alt="Top Foundation Donors" src="https://github.com/user-attachments/assets/2f8b34f9-5090-4a05-aabe-3a40843d6012" />
+<img width="2104" height="640" alt="Top Foundations Donors" src="https://github.com/user-attachments/assets/ce142188-5614-47a4-ae2a-f7b1e15f434a" />
 
-<img width="1916" height="640" alt="Top Individual Donors" src="https://github.com/user-attachments/assets/4178d7f6-f543-437c-b96d-125278fbf0b1" />
+<img width="2104" height="640" alt="Top Individual Donors" src="https://github.com/user-attachments/assets/a76c557a-d1f7-4f44-90d8-a649c20c0269" />
 
-<img width="1916" height="640" alt="Top Corporate Donors" src="https://github.com/user-attachments/assets/24811b5c-d677-44d4-b4ec-04fa83d829aa" />
+<img width="2104" height="640" alt="Top Corporate Donors" src="https://github.com/user-attachments/assets/53f8a95d-a39e-404c-a54d-93afac5222be" />
 
-This data could help identify our largest donors and partnerships. We may want to work with the donations team to show appreciation for the donors that show up for the organization in this way. 
+This data could help identify our largest donors by constituency. Because Foundations, Individuals, and Corporate Donors make up a large majority of our donations, it is important to go through the extra effort in demonstrating appreciation for their donations. 
 
 ## Overall Donation Allocation 
 
