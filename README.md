@@ -96,8 +96,8 @@ Our recurring donors, defined by the donations made monthly throughout the year,
 
 <img width="1998" height="1598" alt="Recurring Donation Distribution" src="https://github.com/user-attachments/assets/c680b730-0ea6-4786-b07a-0f73b4d3e5a4" />
 
-* Donor 1002, a foundation donor, donated 11 times over the year accounting for 772K in total donations.
-* From the top donors chart, we see that donor 1010 donated over $2M but with 5 donations over the year. 
+* Donor 1002, a foundation donor, donated 11 times over the year accounting for $772K in total donations.
+* From the top donors chart, we see that donor 1010 donated over $2M but only with 5 donations over the year.
   
 ## Top Donors by Type
 
@@ -111,7 +111,7 @@ In identifying our top 10 donors by donation type, it is important to go the ext
 
 ## Overall Donation Allocation 
 
-Most donations are designated towards general operations. $5M (77.3%) was reserved for general operations and $784K (about 11%) of donations were directed towards the SUPHS departments. 
+Most donations are designated towards general operations. $5M (77.3%) was reserved for general operations and $784K (~ 11%) of donations were directed towards the SUPHS departments. 
 
 <img width="2450" height="1590" alt="pie fund allocation (2)" src="https://github.com/user-attachments/assets/c650ed4a-0160-4005-8682-2a56a226135c" />
 
@@ -120,7 +120,7 @@ Most donations are designated towards general operations. $5M (77.3%) was reserv
 ### Diversify our donor base
 
 * Foundation donors contribute 80% of total donations indicating strong relationships with Foundation partners. This could mean that we should continue to foster these relationships to continue partnerships and collaboration across the organization. However, since it does make up such a large portion of our donations, there is a risk that if we lose a partnership with some of the foundations, we risk a large portion of future donations. 
-* Individual donors, while contributing smaller amounts each donation, still make up a large portion of donations and are important in the sustainability of the organization's fundraising efforts.
+* Individual donors, while accounting for only 7% of funds, donate most consistently month-to-month. Even with smaller amounts each donation, they still make up a large portion of donations and are important in the sustainability of the organization's fundraising efforts.
 * We could increase outreach through community events, social media campaigns, or peer-to-peer fundraising to reach a larger variety of individual donors.
 * It would increase the sustainability and diversify our donor portfolio rather than solely relying on Foundation donors.
 
@@ -138,15 +138,3 @@ Most donations are designated towards general operations. $5M (77.3%) was reserv
 
 * Donors like to see how their donation has helped the organization so I recommend creating **impact stories** of how donations were distributed to different programs to encourage community involvement. Whether it be through news articles, social media updates on new program initiatives, or media demonstrating the impact of the donations, smaller community campaigns could drive retention and involvement in our organization.
 
-
-Stakeholder Questions: 
-1. What were the total donations during the July 2024 - June 2025 time period?
-2. What is the monthly total and monthly average of donations? Are there months that receive higher donations than others?
-3. What is the seasonality in donations? Do certain months perform better than others? 
-4. Who are the top 5 largest donors? Who are the top 5 individual donors, foundation donors, and corporation donors.
-5. What is the donor retention rate month-to-month?
-6. What is the average donation size by gift constituency?
-7. Where are the funds typically allocated towards? What is the percentage distribution? 
-8. What percentage of donations came from the top 10 donors?
-9. How diverse are the donations? Meaning what portion of donations were made by individuals, corporations, and foundations? Is there a need to diversify?
-10. Which campaigns were more effective in getting donations?
