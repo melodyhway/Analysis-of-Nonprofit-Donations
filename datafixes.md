@@ -13,3 +13,4 @@ This contains a record of the changes made to the data during the cleaning and m
 8. The appeal_list column contained 27 blank rows and couldn't be filled in so they were left blank.
 9. Extra columns like check_number or names associated with a donation in the dataset were removed due to its insignificance or sensitivity issues.
 10. Duplicate columns for dates were created during the data merging step and was subsequently deleted after verifying that it contained the same information.
+11. Individual sheets held total donations column per month and 12 rows were removed as a result. It does not affect our final analysis. 
