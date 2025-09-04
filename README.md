@@ -5,16 +5,27 @@ This project analyzes non-profit donations for an organization that serves the S
 # Table Of Contents
 
 [Data Structure and Validation](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#data-structure-and-data-validation)
+
 [Overview](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#overview-of-findings)
+
 [Dashboard](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#dashboard-overview)
+
 [Insights and Analysis](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#data-insights-and-analysis)
+
   [Overall Trends](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#overall-donation-trends)
-    [MoM Changes in Donations](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#month-over-month-changes-in-donations)
-    [MoM Changes in Volume](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#month-over-month-changes-in-donation-volume)
-    [May 2025](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#digging-deeper-into-may-2025)
+  
+  [MoM Changes in Donations](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#month-over-month-changes-in-donations)
+    
+  [MoM Changes in Volume](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#month-over-month-changes-in-donation-volume)
+    
+  [May 2025](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#digging-deeper-into-may-2025)
+    
   [Donor Insights](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#donor-insights)
-    [Top Donors/Recurring Donors](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#top-donors-and-recurring-donors)
+  
+  [Top Donors/Recurring Donors](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#top-donors-and-recurring-donors)
+    
   [Fund Allocation](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#overall-fund-allocation)
+  
 [Recommendations](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#recommendations)
 
 
