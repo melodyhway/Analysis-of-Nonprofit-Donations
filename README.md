@@ -80,27 +80,24 @@ Donations/donation volume peaked in May 2025 and it seems that a portion of dona
 
 # Donor Insights
 
+<img width="1998" height="1598" alt="Donor Type Breakdown" src="https://github.com/user-attachments/assets/e6dd5a9f-c07d-443b-a60c-93944b1498dc" />
+
 * 80% of donations are covered by foundations
   
 * 7.22% are made by Individual donors.
   
 * Foundations are largest donors to the non-profit allowing for the organization to host new events in partnership, increasing donation efforts. Interestingly, because Individuals are the next highest percentage, it is important to acknowledge the strong impacts that individual donors make on the organization. This means that the organization could further individual funding efforts through community outreach efforts using social media, or in person fundraising methods. 
 
-<p align = "middle">
-  <img width="450" height = "700" alt = "Monthly Donor Distribution" src="https://github.com/user-attachments/assets/875ba0bb-89f5-4c31-bf10-cb0a4ef64b0d" />
-  <img width="450" height = "700" alt = "Total Donor Distribution" src="https://github.com/user-attachments/assets/9e481305-cc06-4749-b587-9d5ae949dbd5" />
-</p>
-
+* Planned Giving donations are often one-time gifts made in advance following a donor plan. Since it is a one off donation, further analysis may not yield significant results. Therefore, we will only focus on our top three constituent types: Foundation, Individual, and Corporate Donors. 
+  
 # Top Donors and Recurring Donors
 
-Our recurring donors, defined by the donations made monthly throughout the year, were comprised of corporation, individual, and foundation donors. Most recurring monthly donations were made by Individual donor types. These donations tend to be smaller monthly amounts but over time but add up to account for a relatively strong portion of our total donations. It shows that Individual donors are still very important in our campaigning efforts as they are more likely to donate every month and continue demonstrating support for our cause.
+Our recurring donors, defined by the donations made monthly throughout the year, were comprised of corporation, individual, and foundation donors. Most recurring monthly donations were made by Individual donor types. These donations tend to be smaller monthly amounts but over time, add up to account for a relatively strong portion of our total donations. It shows that Individual donors are still very important in our campaigning efforts as they are more likely to donate every month and continue demonstrating support for our cause.
 
+<img width="1998" height="1598" alt="Recurring Donation Distribution" src="https://github.com/user-attachments/assets/c680b730-0ea6-4786-b07a-0f73b4d3e5a4" />
 
-<img width="1998" height="1598" alt="Dashboard 3" src="https://github.com/user-attachments/assets/16577993-7022-4efa-9dc9-747b86a3f2d9" />
-
-* Donor 1002, a foundation donor donated 11 times over the year accounting for 772K in total donations.
-
-* There are many donors that make recurring donations throughout the year. 
+* Donor 1002, a foundation donor, donated 11 times over the year accounting for 772K in total donations.
+* From the top donors chart, we see that donor 1010 donated over $2M but with 5 donations over the year. 
   
 ## Top Donors by Type
 
@@ -110,7 +107,7 @@ Our recurring donors, defined by the donations made monthly throughout the year,
 
 <img width="2104" height="640" alt="Top Corporate Donors" src="https://github.com/user-attachments/assets/53f8a95d-a39e-404c-a54d-93afac5222be" />
 
-This data could help identify our largest donors by constituency. Because Foundations, Individuals, and Corporate Donors make up a large majority of our donations, it is important to go through the extra effort in demonstrating appreciation for their donations. 
+In identifying our top 10 donors by donation type, it is important to go the extra step in thanking these donors for their contributions. 
 
 ## Overall Donation Allocation 
 
@@ -118,32 +115,29 @@ Most donations are designated towards general operations. $5M were reserved for 
 
 <img width="2450" height="1590" alt="pie fund allocation (2)" src="https://github.com/user-attachments/assets/c650ed4a-0160-4005-8682-2a56a226135c" />
 
-
-
 # Recommendations
 
 ### Diversify our donor base
 
 * Foundation donors contribute 80% of total donations indicating strong relationships with Foundation partners. This could mean that we should containue to foster these relationships to continue partnerships and collaboration across the organization. However, since it does make up such a large portion of our donations, there is a risk that if we lose a partnership with some of the foundations, we risk a large portion of future donations. 
-* Individual donors, while contributing smaller amounts each donation, still make up a large portion of donations.
+* Individual donors, while contributing smaller amounts each donation, still make up a large portion of donations and are important in the sustainability of the organization's fundraising efforts.
 * We could increase outreach through community events, social media campaigns, or peer-to-peer fundraising to reach a larger variety of individual donors.
 * It would increase the sustainability and diversify our donor portfolio rather than solely relying on Foundation donors.
 
 ### Work with our Recurring Donors
 * Recurring donors have already shown strong engagement with our organization.
-* We could increase our efforts in showing appreciation to our donors through personalized thank-yous, demonstrate appreciation, and provide updates on the impact of their donation. This increases donor retention and can possibly increase donor involvement in our program. 
-
+* We could increase appeal to our donors through personalized thank-yous, demonstrate appreciation, and provide updates on the impact of their donation. This increases donor retention and can possibly increase donor involvement in our program.
 
 ### Campaigns and Seasonal Strategies
 
-* Events such as the Holiday Gift Drive or Chef Galas encourage seasonal peaks in donations that the organization could build on by hosting similar events throughout the year in support of a variety of fundraising efforts.
+* Events such as the Holiday Gift Drive or Chef Gala encourage seasonal peaks in donations that the organization could build on by hosting similar events throughout the year in support of a variety of fundraising efforts.
 * We could work more effectively with marketing and donation teams to increase fundraising efforts especially with our individual donors.
   * For example, during the slower months, we could launch smaller, seasonally focused social media campaigns to encourage further involvement with the community. This would take less budget while still encouraging people to participate in fundraising efforts, further increasing donations throughout the year. 
 
-### Demonstrate donation impacts
+### Demonstrate Donation Impacts
 
-* Donors like to see how their donation has helped the organization so I recommend creating **impact stories** of how donations were distributed to different programs to encourage community involvement whether it be through news articles, or social media updates on new program intiatives, media demonstrating the impact of the donations could drive retention and involvement in the non-profit organization.
-* 
+* Donors like to see how their donation has helped the organization so I recommend creating **impact stories** of how donations were distributed to different programs to encourage community involvement. Whether it be through news articles, social media updates on new program intiatives, or media demonstrating the impact of the donations, smaller community campaigns could drive retention and involvement in our organization.
+
 
 Stakeholder Questions: 
 1. What were the total donations during the July 2024 - June 2025 time period?
