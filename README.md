@@ -1,4 +1,5 @@
 # Project Background
+new ver
 
 This project analyzes non-profit donations for an organization that serves the San Francisco Bay Area. The data contains records of donations made from July 2024 to June 2025, including data on donation dates, donation amounts, donor ID, donor type, campaign ID, fund allocation destination, records for recurring or annual donations. This project aims to use Excel, SQL, and Tableau to discover how donations are allocated, identify donation sources, and investigate the effectiveness of different events in gathering donations. This project will also help identify the biggest donors in the system and uncover seasonal patterns in donations to better understand our donations and increase future fundraising efforts during certain times like holidays or hosted events. 
 
