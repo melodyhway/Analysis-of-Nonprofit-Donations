@@ -46,7 +46,7 @@ ORDER BY Year, Month;
 
 Organized by year and month, donations range from a min of $36,045 (Jan 2025) to $1,349,623 (May 2025). Average monthly donations ranged from $655.36 from January 2025 to $28548 from July 2024. 
 
-### 3. What is the seasonlity in donations? Do certain months perform better than others? 
+### 3. What is the seasonality in donations? Do certain months perform better than others? 
 ```
 WITH monthly AS (
     SELECT Year, Month,
