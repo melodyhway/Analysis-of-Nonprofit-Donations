@@ -9,6 +9,7 @@ Stakeholder Questions:
 7. Where are the funds typically allocated towards? What is the percentage distribution? 
 8. What percentage of donations came from the top 10 donors?
 9. How many donors make donations each month? Who are they?
+10. How were donations accumulating throughout the year?
 
 
 # Table Sample
@@ -175,6 +176,8 @@ FROM top10_totals, all_totals;
 ```
 <img width="124" height="66" alt="Screenshot 2025-09-03 at 9 45 29 PM" src="https://github.com/user-attachments/assets/a9676a00-1900-41cd-82a3-b280dccef819" />
 
+The top 10 donors donated ~80% of our total donations for the 2024-2025 Fiscal Year 
+
 9. How many donors make donations each month? Who are they?
 ```
 WITH total_months AS (
@@ -194,4 +197,18 @@ WHERE d.months_donated = t.n_months;
 ```
 <img width="840" height="699" alt="Screenshot 2025-09-03 at 10 19 53 PM" src="https://github.com/user-attachments/assets/e7dbbf15-fa7d-43a4-8466-ff492de75381" />
 
+10. How were donations accumulating throughout the year?
+
+```
+SELECT 
+  month, Year,
+  round(SUM(gift_amount),0) AS monthly_total,
+  SUM(SUM(gift_amount)) OVER (ORDER BY Year, month) AS running_total
+FROM donations
+GROUP BY month, Year
+ORDER BY Year, month
+```
+<img width="936" height="416" alt="Screenshot 2025-10-02 at 1 01 17 PM" src="https://github.com/user-attachments/assets/34af3508-ec5c-4922-85a6-9198b00f2403" />
+
+There was an accumulated total of $6.8M in donations by June 2025.
 
