@@ -25,6 +25,8 @@ In the non-profit sector, understanding and increasing donations is essential fo
 
 Suppose this is an organization focuses on supporting workfore development, with donations funding programs that help people build skills for employment. To ensure that these programs are well funded and effective, funding must be tracked and analyzed, enabling strategis allocation decisions throughout the year and ensuring sucessful operations. 
 
+How can we increase donations throughout the year, what and when should campaigns can be implemented to encourage donations. Who are the biggest supporters of the organization, and how can we encourage more support and leverage the organization's resources in an effective manner?
+
 # Background
 
 The data contains records of donations made from July 2024 to June 2025, including data on donation dates, donation amounts, donor ID, donor type, campaign ID, fund allocation destination, records indicating recurring or annual donations. This project aims to use Excel, SQL, and Tableau to discover how donations are allocated, identify donation sources, and investigate the effectiveness of different events in gathering donations. This project will also help identify the biggest donors in the system and uncover seasonal patterns in donations to better understand donation behaviour and increase future fundraising efforts during certain times like holidays or hosted events. 
