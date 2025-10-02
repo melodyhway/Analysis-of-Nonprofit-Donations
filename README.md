@@ -1,10 +1,28 @@
+# 
 # Executive Summary
 
-Using SQL, Excel, and Tableau, I analyzed and created a dashboard to gain insights into the donations made to a non-profit organization. The goal was to identify donation trends, campaign effectiveness, fund allocation, and identified the biggest donors to the organization, and uncover patterns and anomalies in donations. The aim of this project is to better understand how donations are made, develop a plan to encourage and sustain community support, and provide insights on campaign improvements and fundraising efforts for the organization. 
+Using SQL, Excel, and Tableau, I analyzed and created a dashboard to gain insights into the donations made to a non-profit organization. The goal was to identify donation trends, campaign effectiveness, fund allocation, identify the biggest donors to the organization, and uncover patterns and anomalies in donations. The aim of this project is to better understand how donations are made, develop a plan to encourage and sustain community support, and provide insights on campaign improvements and fundraising efforts for the organization. With over $6M in donations, this project provides insight into the organization's fundraising efforts to support the organization's goals in supporting workforce development. 
+
+## Key Findings
+
+* Total Donations: $6.83M
+* Total Donation Volume: 1066
+* Avg Donation Amount: $6,407
+* Median Donation Amount: $127
+* Best Performing Months: June, May, December, July
+* Top Foundation Donors: 1010, 1002, 1049
+* Top Individual Donors: 1045, 1523, 1037
+* Campaign Successes: May Gala garnered over $219K in donations leading to a spike in donations during this month.
+
+## Recommendations Summary
+
+* diversify campaigns and donor types to increase organization's sustainability
+* implement smaller social media and peer-to-peer campaigns to encourage donations during "off" months
+* demonstrate impact on social media to donors and interested parties to demonstrate the work that is being done and how donations are being implemented in the causes that people care about. 
 
 # Background
 
-The data contains records of donations made from July 2024 to June 2025, including data on donation dates, donation amounts, donor ID, donor type, campaign ID, fund allocation destination, records for recurring or annual donations. This project aims to use Excel, SQL, and Tableau to discover how donations are allocated, identify donation sources, and investigate the effectiveness of different events in gathering donations. This project will also help identify the biggest donors in the system and uncover seasonal patterns in donations to better understand our donations and increase future fundraising efforts during certain times like holidays or hosted events. 
+The data contains records of donations made from July 2024 to June 2025, including data on donation dates, donation amounts, donor ID, donor type, campaign ID, fund allocation destination, records indicating recurring or annual donations. This project aims to use Excel, SQL, and Tableau to discover how donations are allocated, identify donation sources, and investigate the effectiveness of different events in gathering donations. This project will also help identify the biggest donors in the system and uncover seasonal patterns in donations to better understand donation behaviour and increase future fundraising efforts during certain times like holidays or hosted events. 
 
 # Table Of Contents
 
@@ -59,18 +77,17 @@ Find the SQL queries for answers to specific stakeholder questions [here](https:
 
 # Overview
 
-A total of $6.83 M were donated to our non-profit organization in the July 2024-June 2025 FY. The top-performing months occurred during May 2025, July 2024, December 2024, June 2025. FOundation donors made up the largest portion of donations followed by Individual donations. Gala and holiday events certainly have an impact on the donations made to the org. Notably, in May, the hosted Gala resulted in a peak in donation volume and amount. By diving deeper into insights into donor types, campaigns, and funding efforts for the organization, we can better understand the needs of the organization in increasing fundraising efforts to cover the organization's needs.. Using this data, we can make data-informed recommendations for our organization for future fundraising strategies, media campaigns, and increasing donation efforts and diversify potential donor types to maintain the organization's sustainability in supporting its community.
+A total of $6.83M was donated to our non-profit organization in the July 2024-June 2025 FY. The top-performing months occurred during May 2025, July 2024, December 2024, June 2025. Foundation donors made up the largest portion of donations followed by Individual donations. Gala and holiday events certainly have an impact on the donations made to the org. Notably, in May, the hosted Gala resulted in a peak in donation volume and amount. By diving deeper into insights into donor types, campaigns, and funding efforts for the organization, we can better understand the needs of the organization in increasing fundraising efforts to cover the organization's needs. Using this data, we can make data-informed recommendations for our organization for future fundraising strategies, media campaigns, and increasing donation efforts and diversifying potential donor types to maintain the organization's sustainability in supporting its community.
 
 
 # Dashboard Overview 
-<img width="1998" height="1598" alt="Donations Dashboard" src="https://github.com/user-attachments/assets/42ffb39f-6f5e-4a29-8a3f-24a2e4acd34b" />
-
+<img width="1998" height="1598" alt="offical dashboard (2) (3)" src="https://github.com/user-attachments/assets/5534d6c3-d7de-4c35-ba2e-c29f7c7614fd" />
 
 # Insights and Analysis
 
 ### Overall Donation Trends
 
-**July 2024**, **May 2025**, and **June 2025** performed exceptionally well compared to other months. However, the donation volume vary widely across these top performing months.
+**July 2024**, **May 2025**, and **June 2025** performed exceptionally well compared to other months. However, the donation volume varies widely across these top performing months.
 
 * May received 227 donations, whereas in July 2024, with similar donation totals, received only 47 donations.
 * Even though December had a relatively high volume of donations, the total donations during the month didn't reach the same levels as compared to May and June.
@@ -83,7 +100,7 @@ A total of $6.83 M were donated to our non-profit organization in the July 2024-
 
 <img width="2704" height="302" alt="percentage change in donation amount" src="https://github.com/user-attachments/assets/edf2dd8f-fda9-45c6-8a58-a66c7c459805" />
 
-* July starts off strong with a total donation amount of $1.3M but donations had significantly decreased compared to the beginning of the year. The initial spike in donations are likely due to new year fundraising efforts. During the holiday season (i.e., November and December), we again see an increase in donations to nearly $1M -- a 302% MoM increase in total donations from November.
+* July starts off strong with a total donation amount of $1.3M but donations had significantly decreased compared to the beginning of the year. The initial spike in donations is likely due to new year donations made to the org. During the holiday season (i.e., November and December), we again see an increase in donations to nearly $1M -- a 302% MoM increase in total donations from November.
   
 * Donations again slowed down in the new year, but picked right back up in April and May 2025 with a peak change of 801%.
   
@@ -103,7 +120,7 @@ Donations/donation volume peaked in May 2025 in support of a fundraising gala to
 <img width="2554" height="1642" alt="chef gala_may investigation" src="https://github.com/user-attachments/assets/259fcbaa-16ac-4168-9c8d-060137994e70" />
 
 
-* In May 2025, Gala gifts totaled $261,510 (19%) of the month's donation amount. The remaining 81% of donations came from non-Gala gifts. While the Gala drove much of the donation volume at 181 gifts, the donation made  was smaller than the non-gala gifts which explains the difference in donation totals.
+* In May 2025, Gala gifts totaled $261,510 (19%) of the month's donation amount. The remaining 81% of donations came from non-Gala gifts. While the Gala drove much of the donation volume at 181 gifts, the average donation amount was smaller than the non-gala gifts explaining the relationship between volume and amount. 
 
 
 # Donor Insights
@@ -112,8 +129,8 @@ Donations/donation volume peaked in May 2025 in support of a fundraising gala to
 
 * 80% of donations come from foundations at an accumulated $5M worth of donations.
   
-* 7.22% of donations were made by Individual donors at $500K. While individuals donoars make up a smaller percentage of the total doantions, they are still impactful to the organization. It shows the community putreach efforts are very impactful in garnering financial support for the organization. This means that the organziation should both focus on developing foundational partnerships and encourage individual donations at the same time.
-* Recommendations: I would suggest that in order to encourage individual donations. the organization could focus campaign efforts throughout the local community both in person and online through small social media campaigns. 
+* 7.22% of donations were made by Individual donors at $500K. While individuals donors make up a smaller percentage of the total donations, they are still impactful to the organization. It shows community outreach efforts are very impactful in garnering financial support for the organization. This means that the organization should both focus on developing foundational partnerships and encourage individual donations at the same time.
+* Recommendations: I would suggest that in order to encourage individual donations, the organization could focus campaign efforts throughout the local community both in person and online through small social media campaigns or other methods. 
 
 * Note: Planned Giving donations are often one-time gifts made in advance following a donor plan. Since it is a one-off donation, further analysis may not yield significant results for future projections. Therefore, we will only focus on our top three constituent types: **foundation, individual, and corporate donors**. 
   
@@ -150,7 +167,7 @@ Most donations are designated towards general operations.
 ### Diversify our donor base
 
 * Foundation donors contribute 80% of total donations indicating strong relationships with Foundation partners. This could mean that we should continue to foster these relationships to continue partnerships and collaboration across the organization. However, there is a risk that if we lose a partnership with some of the foundations, we risk a large portion of future donations indicating risk for the organization. 
-* Individual donors, while accounting for 7% of funds, donate most consistently month-to-month. Even with smaller amounts each donation, they still make up a large portion of donors and are important in the sustainability of the organization's fundraising efforts.
+* Individual donors, while accounting for 7% of funds, donate most consistently month-to-month. Even though the amounts are smaller for each donation, they still add up to a significant portion of donations and are imperative in the sustainability of the organization's fundraising efforts.
 * We could increase outreach through community events, social media campaigns, or peer-to-peer fundraising to reach a larger variety of donors.
 * This would increase the sustainability and diversify our donor portfolio, possibly reducing reliance on foundation donors.
 
@@ -162,7 +179,7 @@ Most donations are designated towards general operations.
 
 * Events such as the Holiday Gift Drive and Chef Gala encourage seasonal peaks in donations. Following this pattern, the organization could host similar but smaller scale events throughout the year in support of a variety of fundraising efforts.
 * The marketing and fundraising teams would work to create effective campaigns in engaging more individual donors through focused social media campaigns. 
-  * For example, during the slower months, we could launch smaller, seasonally focused social media campaigns to encourage further involvement with the community. For exmaple, in February, while donations typically seem to decrease, we could implement "Spread the Love" campaigns that encourage donations in support of the campaigns while accounting for budget and spending. 
+  * For example, during the slower months, we could launch smaller, seasonally focused social media campaigns to encourage further involvement with the community. For example, in February, while donations typically seem to decrease, the marketing and fundraising teams could implement mini social media "Spread the Love" campaigns to encourage donations while accounting for budget and spending. 
 
 ### Demonstrate Donation Impacts
 
