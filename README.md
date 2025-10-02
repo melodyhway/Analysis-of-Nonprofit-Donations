@@ -192,3 +192,9 @@ Most donations are designated towards general operations.
 
 * Donors like to see how their donation has helped the organization so I recommend creating **impact stories** of how donations were distributed to different programs to encourage community involvement. Whether it be through news articles, social media updates on new program initiatives, or media demonstrating the impact of the donations, smaller community campaigns could drive retention and involvement in our organization.
 
+  ### Future Direction
+
+  * Implement different campaigns throughout the next year and compare how donations changed across the year.
+  * Assess the patterns in donations.
+  * If implementing new campaigns, we can test how different campaigning methods work in encouraging new donors.
+
