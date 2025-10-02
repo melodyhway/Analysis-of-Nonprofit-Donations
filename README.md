@@ -1,4 +1,4 @@
-# 
+# Driving Fundraising Impacts
 # Executive Summary
 
 Using SQL, Excel, and Tableau, I analyzed and created a dashboard to gain insights into the donations made to a non-profit organization. The goal was to identify donation trends, campaign effectiveness, fund allocation, identify the biggest donors to the organization, and uncover patterns and anomalies in donations. The aim of this project is to better understand how donations are made, develop a plan to encourage and sustain community support, and provide insights on campaign improvements and fundraising efforts for the organization. With over $6M in donations, this project provides insight into the organization's fundraising efforts to support the organization's goals in supporting workforce development. 
@@ -19,6 +19,11 @@ Using SQL, Excel, and Tableau, I analyzed and created a dashboard to gain insigh
 * diversify campaigns and donor types to increase organization's sustainability
 * implement smaller social media and peer-to-peer campaigns to encourage donations during "off" months
 * demonstrate impact on social media to donors and interested parties to demonstrate the work that is being done and how donations are being implemented in the causes that people care about. 
+
+# Business Problem
+In the non-profit sector, understanding and increasing donations is essential for sustaining operations. By indentifying pattersn in doantion growth and decline, it provides critical insights that help organizations better support thier communities and initiatives.
+
+Suppose this is an organization focuses on supporting workfore development, with donations funding programs that help people build skills for employment. To ensure that these programs are well funded and effective, funding must be tracked and analyzed, enabling strategis allocation decisions throughout the year and ensuring sucessful operations. 
 
 # Background
 
