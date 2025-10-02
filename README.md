@@ -30,7 +30,7 @@ This project analyzes non-profit donations for an organization that serves the S
 
 
 ## Data Structure and Data Validation
-The data contains 1,066 records on the donations made during the FY 2024-2025 fiscal year. It contains the following columns:
+The data contains 1,066 records on donations made during the 2024-2025 fiscal year with the following columns:
 
 | Column Name | Data Type | Descriptor |
 | :------- | :------: | :-------|
@@ -45,7 +45,7 @@ The data contains 1,066 records on the donations made during the FY 2024-2025 fi
 ### Caveats with the data
 While the data contains a rich variety of information, there were several instances of data logging errors including misaligned dates, total donation calculations, duplicate columns, errors, and blank values. These issues were addressed using data cleaning methods through Excel. 
 
-A log of fixes can be found [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/ec97ac7fdaa82c0d7fb66a9f593de10ed51d0878/datafixes.md)
+A log of fixes can be found [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/ec97ac7fdaa82c0d7fb66a9f593de10ed51d0878/datafixes.md).
 
 
 An Interactive Tableau Dashboard can be found [here](https://public.tableau.com/views/Analysisofnon-profitdonations/Non-ProfitDonationsDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
