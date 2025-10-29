@@ -53,14 +53,17 @@ A total of $6.83M was donated to our non-profit organization in the July 2024-Ju
 
 
 # Dashboard Overview 
-
-<img width="3198" height="1798" alt="Dashboard" src="https://github.com/user-attachments/assets/f7feda92-af86-4355-8b2d-355ad61b4d1b" />
+<p align="center">
+<img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/255ce964-656a-4766-8e5c-a4f20954860b" />
+</p>
 
 # Insights and Analysis
 
 ### Overall Donation Trends
+<p align="center">
+  <img width="60%" class="center" alt="monthly donations" src="https://github.com/user-attachments/assets/a168418d-09c2-415f-acb8-6e660069431b" >
+</p>
 
-<img width="1200" height="1000" alt="monthly donations" src="https://github.com/user-attachments/assets/a168418d-09c2-415f-acb8-6e660069431b" />
 
 **July 2024, May 2025**, and **June 2025** performed exceptionally well with over $1M in donations per month. However, donation volume fluctuates a lot across these months. 
 
@@ -131,8 +134,10 @@ A total of $6.83M was donated to our non-profit organization in the July 2024-Ju
 Why did May 2025 receive so many donations in terms of amount and volume? And what attributed to these increases?
 
 Donations/donation volume peaked in May 2025 with a total of $1.3M in support of a fundraising gala to support educational and workforce programs. 
+<p align="center">
+  <img width="75%" alt="chef gala_may investigation" src="https://github.com/user-attachments/assets/259fcbaa-16ac-4168-9c8d-060137994e70">
+</p>
 
-<img width="75%" alt="chef gala_may investigation" src="https://github.com/user-attachments/assets/259fcbaa-16ac-4168-9c8d-060137994e70" />
 
 
 * In May 2025, Gala gifts totaled $261,510 (19%) of the month's donation amount. The remaining 81% of donations came from non-Gala gifts. While the Gala drove much of the donation volume at 181 gifts, the average donation amount was smaller than the non-gala gifts.
