@@ -5,8 +5,8 @@ I analyzed and created a dashboard to gain insights into the donations made to a
 
 ## Key Findings
 
-* Total Donations: $6.83M
-* Total Donation Volume: 1066
+* Total Donation Amount: **$6.83M**
+* Total Donation Volume: **1066**
 * Avg Donation Amount: $6,407
 * Median Donation Amount: $127
 * Best Performing Months: June, May, December, July
@@ -16,49 +16,22 @@ I analyzed and created a dashboard to gain insights into the donations made to a
 
 ## Recommendations Summary
 
-* diversify campaigns and donor types to increase organization's sustainability
-* implement smaller social media and peer-to-peer campaigns to encourage donations during "off" months
-* demonstrate impact on social media to donors and interested parties to demonstrate the work that is being done and how donations are being implemented in the causes that people care about. 
+* diversify campaigns and encourage donor diversity increase organization's sustainability, especially working to encourage more individual donors.
+* implement smaller social media and peer-to-peer campaigns to encourage donations during "off" months.
+* demonstrate impact on social media to donors and interested parties to demonstrate the work that is being done and how donations are being used for the causes that people care about. 
 
-# Business Problem
-In the non-profit sector, understanding and increasing donations is essential for sustaining operations. By indentifying pattersn in doantion growth and decline, it provides critical insights that help organizations better support thier communities and initiatives.
+# The Problem
+In the non-profit sector, understanding and gathering donations is essential for sustaining operations. By indentifying patterns in doantion growth and decline, it provides critical insights to help organizations better support their communities and initiatives.
 
-Suppose this is an organization focuses on supporting workfore development, with donations funding programs that help people build skills for employment. To ensure that these programs are well funded and effective, funding must be tracked and analyzed, enabling strategis allocation decisions throughout the year and ensuring sucessful operations. 
+Suppose this is an organization focuses on supporting workforce development, with donations funding programs that help people build employable skills and support aging populations. To ensure that these programs are effective, funding must be tracked and analyzed, enabling campaign strategies and allocation decisions throughout the year and ensure sucessful operations. 
 
-How can we increase donations throughout the year, what and when should campaigns can be implemented to encourage donations. Who are the biggest supporters of the organization, and how can we encourage more support and leverage the organization's resources in an effective manner?
+How can we increase donations throughout the year, what and when should campaigns be implemented to encourage donations? Who are the organization's biggest supporters and how can we encourage more support and leverage the organization's resources in an effective manner?
 
 # Background
 
-The data contains records of donations made from July 2024 to June 2025, including data on donation dates, donation amounts, donor ID, donor type, campaign ID, fund allocation destination, records indicating recurring or annual donations. This project aims to use Excel, SQL, and Tableau to discover how donations are allocated, identify donation sources, and investigate the effectiveness of different events in gathering donations. This project will also help identify the biggest donors in the system and uncover seasonal patterns in donations to better understand donation behaviour and increase future fundraising efforts during certain times like holidays or hosted events. 
+The data contains records of donations made from July 2024 to June 2025 and uses Excel, SQL, and Tableau to uncover insights into the organization's donations.
 
-# Table Of Contents
-
-[Data Structure and Validation](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#data-structure-and-data-validation)
-
-[Overview](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#overview-of-findings)
-
-[Dashboard](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#dashboard-overview)
-
-[Insights and Analysis](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#data-insights-and-analysis)
-
-  [Overall Trends](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#overall-donation-trends)
-  
-  [MoM Changes in Donations](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#month-over-month-changes-in-donations)
-    
-  [MoM Changes in Volume](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#month-over-month-changes-in-donation-volume)
-    
-  [May 2025](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#digging-deeper-into-may-2025)
-    
-  [Donor Insights](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#donor-insights)
-  
-  [Top Donors/Recurring Donors](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#top-donors-and-recurring-donors)
-    
-  [Fund Allocation](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#overall-fund-allocation)
-  
-[Recommendations](https://github.com/melodyhway/Donations-Analysis-using-SQL/tree/melodyhway-patch-1?tab=readme-ov-file#recommendations)
-
-
-## Data Structure and Validation
+## Data Structure
 The data contains 1,066 records on donations made during the 2024-2025 fiscal year with the following columns:
 
 <img width="333" height="444" alt="data structure" src="https://github.com/user-attachments/assets/d8ca3d56-14b6-403b-b0d2-c7fba339d789" />
@@ -69,7 +42,7 @@ There were several instances of data logging errors including misaligned dates, 
 A log of fixes can be found [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/ec97ac7fdaa82c0d7fb66a9f593de10ed51d0878/datafixes.md).
 
 
-An Interactive Tableau Dashboard can be found [here](https://public.tableau.com/views/Analysisofnon-profitdonations/officaldashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+An Interactive Tableau Dashboard can be found [here]
 
 Find the SQL queries for answers to specific stakeholder questions [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/8f98b82866f7878f72b89d0c21ab47cf334d4a83/SQLqueries.md).
 
@@ -80,19 +53,20 @@ A total of $6.83M was donated to our non-profit organization in the July 2024-Ju
 
 
 # Dashboard Overview 
-<img width="1998" height="1598" alt="offical dashboard (2) (3)" src="https://github.com/user-attachments/assets/5534d6c3-d7de-4c35-ba2e-c29f7c7614fd" />
+
+<img width="3198" height="1798" alt="Dashboard" src="https://github.com/user-attachments/assets/f7feda92-af86-4355-8b2d-355ad61b4d1b" />
 
 # Insights and Analysis
 
 ### Overall Donation Trends
 
-**July 2024**, **May 2025**, and **June 2025** performed exceptionally well compared to other months. However, the donation volume varies widely across these top performing months.
+<img width="1200" height="1000" alt="monthly donations" src="https://github.com/user-attachments/assets/a168418d-09c2-415f-acb8-6e660069431b" />
+**July 2024**, **May 2025**, and **June 2025** performed exceptionally well. However, the donation volume fluctuates a lot across these months. 
 
-* May received 227 donations, whereas in July 2024, with similar donation totals, received only 47 donations.
-* Even though December had a relatively high volume of donations, the total donations during the month didn't reach the same levels as compared to May and June.
-* The campaigns/events that were run during these months may provide an explanation. 
+* May received 227 donations, whereas in July 2024, with similar totals, received only 47 donations.
+* Even though December had a relatively high volume of donations, the total donations did not reach the same peaks as May and June.
+* It is suspected that year beginning and year end events/donations may contribute to these month's successes. 
 
-<img width="2034" height="1590" alt="monthly donations (2) (1)" src="https://github.com/user-attachments/assets/8866f413-57bf-4818-a585-756fd75df5ea" />
 
 
 ### Month-over-Month Changes in Donations 
