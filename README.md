@@ -12,7 +12,7 @@ Using SQL, Excel, and Tableau, I analyzed and created a dashboard to gain insigh
 * Best Performing Months: June, May, December, July
 * Top Foundation Donors: 1010, 1002, 1049
 * Top Individual Donors: 1045, 1523, 1037
-* Campaign Successes: May Gala garnered over $219K in donations leading to a spike in donations during this month.
+* Campaign Successes: May Gala garnered over $219K in donations contributing to the highest donation amount of the year at 1.3M in May.
 
 ## Recommendations Summary
 
@@ -61,15 +61,7 @@ The data contains records of donations made from July 2024 to June 2025, includi
 ## Data Structure and Validation
 The data contains 1,066 records on donations made during the 2024-2025 fiscal year with the following columns:
 
-| Column Name | Data Type | Descriptor |
-| :------- | :------: | :-------|
-| Gift_Date  | Date  | Donation Date |
-| Gift_Amount| float  | Donation Amount (USD)|
-| Donor_id | string  | Donor (anonymized) |
-| Gift_Constituency | string  | Donor Type (individual, foundation, corporation, etc) |
-| Campaign_id| string  | AN24/AN25 |
-| Fund_List| string  | Donation Allocation data |
-| Appeal_List| string  | Information on recurring or annual donations |
+<img width="333" height="444" alt="data structure" src="https://github.com/user-attachments/assets/d8ca3d56-14b6-403b-b0d2-c7fba339d789" />
 
 ### Data Caveats
 There were several instances of data logging errors including misaligned dates, total donation calculations, duplicate columns, errors, and blank values. These issues were addressed using data cleaning methods through Excel. 
