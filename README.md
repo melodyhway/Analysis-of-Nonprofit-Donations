@@ -141,9 +141,20 @@ Donations/donation volume peaked in May 2025 with a total of $1.3M in support of
 
 # Donor Insights
 
-<img width="1998" height="1598" alt="Dashboard 5 (3)" src="https://github.com/user-attachments/assets/5ccfc577-cf24-496c-848f-3635d2aa419f" />
+<table >
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+     <img width="100%" alt="Dashboard 5 (3)" src="https://github.com/user-attachments/assets/5ccfc577-cf24-496c-848f-3635d2aa419f" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <img width="100%" alt="proportion of donor types" src="https://github.com/user-attachments/assets/57f8eb68-4689-4784-a631-fe3bb1acba11">
+    </td>
+  </tr>
+</table>
 
-<img width="50%" alt="proportion of donor types" src="https://github.com/user-attachments/assets/57f8eb68-4689-4784-a631-fe3bb1acba11" />
+
+
+
 
 * 80% of donations come from foundations at an accumulated $5M worth of donations.
   
@@ -172,13 +183,24 @@ Our top foundation donor donated over $2M. Our top individual donor donated $26K
 
 ## Overall Fund Allocation 
 
-Most donations are designated towards general operations. 
-* $5M (77.3%) was reserved for general operations
-* $784K (~11%) of donations were directed towards the SUPHS departments.
-* $411K (~6.23%) were allocated towards the Work Development department.
 
-<img width="2500" height="1500" alt="Fund Allocation" src="https://github.com/user-attachments/assets/90f3ba72-e3ee-4a45-b8fd-37c6c0dc2179" />
-
+<table >
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <img width="100%" alt="pie fund allocation (2) (1)" src="https://github.com/user-attachments/assets/98bc46a8-b20f-47b4-b938-af2731840c92">
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p>
+        Most donations are designated towards general operations.  
+        <ul>
+          <li>$5M (77.3%) was reserved for general operations</li>
+          <li>$784K (~11%) of donations were directed towards the SUPHS departments.</li>
+          <li>$411K (~6.23%) were allocated towards the Work Development department.</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+</table>
 
 # Recommendations
 
