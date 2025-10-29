@@ -117,7 +117,7 @@ A total of $6.83M was donated to our non-profit organization in the July 2024-Ju
           <li>This demonstrates the impact of campaign events throughout the year. Larger campaigns and events bring in more donors and encourage more community involvement but smaller campaigns can bring in more consistent small donations. </li>
         <ul>
            <li> I recommend smaller scale campaigns throguhout the year especially in the new year and slow months to encourage further donations even if they only encourage smaller donations since every donation helps develop the organization's programs.</li>
-          <li>During off-campaign times, deploying mall social media campaigns sharing the impacts of high profile events and developments can encourage past and present donors . That way, past and potential donors can have more insight into the orgnaization's efforts to encourage workfore development and support the local community. </li>
+          <li>During off-campaign times, deploying small social media campaigns to share the impacts of high profile events and organizational development can encourage past and present donors. That way, past and potential donors can have more insight into the orgnaization's efforts to encourage workfore development and support the local community. </li>
         </ul>
       </ul>
     </td>
