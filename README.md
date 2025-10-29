@@ -1,7 +1,7 @@
 # Data Driven Fundraising Impacts: Trends, Donors & Campaigns
 # Executive Summary
 
-Using SQL, Excel, and Tableau, I analyzed and created a dashboard to gain insights into the donations made to a non-profit organization. The goal was to identify donation trends, campaign effectiveness, fund allocation, identify the biggest donors to the organization, and uncover patterns and anomalies in donations. The aim of this project is to better understand how donations are made, develop a plan to encourage and sustain community support, and provide insights on campaign improvements and fundraising efforts for the organization. With over $6M in donations, this project provides insight into the organization's fundraising efforts to support the organization's goals in supporting workforce development. 
+I analyzed and created a dashboard to gain insights into the donations made to a non-profit organization. The goal was to identify donation trends, campaign effectiveness, fund allocation, identify the biggest donors to the organization, and uncover patterns and anomalies in donations. The aim of this project is to better understand how donations are made, develop a plan to encourage and sustain community support, and provide insights on campaign improvements and fundraising efforts for the organization. With over $6M in donations, this project provides insight into the organization's fundraising efforts to support the organization's goals in supporting workforce development. 
 
 ## Key Findings
 
