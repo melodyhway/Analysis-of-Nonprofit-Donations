@@ -61,44 +61,89 @@ A total of $6.83M was donated to our non-profit organization in the July 2024-Ju
 ### Overall Donation Trends
 
 <img width="1200" height="1000" alt="monthly donations" src="https://github.com/user-attachments/assets/a168418d-09c2-415f-acb8-6e660069431b" />
-**July 2024**, **May 2025**, and **June 2025** performed exceptionally well. However, the donation volume fluctuates a lot across these months. 
+
+**July 2024, May 2025**, and **June 2025** performed exceptionally well with over $1M in donations per month. However, donation volume fluctuates a lot across these months. 
 
 * May received 227 donations, whereas in July 2024, with similar totals, received only 47 donations.
 * Even though December had a relatively high volume of donations, the total donations did not reach the same peaks as May and June.
 * It is suspected that year beginning and year end events/donations may contribute to these month's successes. 
 
 
-
 ### Month-over-Month Changes in Donations 
 
-<img width="2704" height="302" alt="percentage change in donation amount" src="https://github.com/user-attachments/assets/edf2dd8f-fda9-45c6-8a58-a66c7c459805" />
+<table >
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <img src="https://github.com/user-attachments/assets/9d14e369-fd40-4a13-b060-4d8108aa82db"
+           alt="MoM Change in Donations"
+           width="100%">
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p>
+        This chart shows the month-over-month change in donations.  
+        <ul>
+          <li>July starts off strong with 1.3M in donations. However, donations significantly dipped in the following months. </li>
+          <li>In December, donations significantly increased by 402% likely due to Holiday events and gifting.</li>
+          <li>Once again, in the year calendar year, donations dipped by hit the highest monthly change in April and Continued to grow in May. </li>
+          <li>May reports the highest donation total with a 149% growth in donations from April. </li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+</table>
 
-* July starts off strong with a total donation amount of $1.3M but donations had significantly decreased compared to the beginning of the year. The initial spike in donations is likely due to new year donations made to the org. During the holiday season (i.e., November and December), we again see an increase in donations to nearly $1M -- a 302% MoM increase in total donations from November.
-  
-* Donations again slowed down in the new year, but picked right back up in April and May 2025 with a peak change of 801%.
   
 ### Month-over-Month Changes in Donation Volume
 
-<img width="2224" height="342" alt="Percentage Change in Donation Volume" src="https://github.com/user-attachments/assets/1c53d001-2ca1-4158-935e-8b18a75563dd" />
+
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 70%; padding-right:16px;">
+      <img
+        src="https://github.com/user-attachments/assets/cdc26357-71d3-4757-8f55-bc4d82fdfb20"
+        alt="MoM Change in Volume (1)"
+        style="width:100%; height:auto; max-height:640px; object-fit:contain;">
+    </td>
+    <td>
+      <p>This chart shows the month-over-month change in donation volume. </p>
+      <ul>
+          <li>It seems that donations in the beginning of the fiscal year stayed consistent with ~40 unique donors in July-Sep</li>
+          <li>There was a steady increase in donation volume from Oct - Dec. However with consistent growth in donors, it still had not reached peak donation amounts.</li>
+          <li>Donations volume vary widely in Jan - April. </li>
+          <li>May reports the highest donation volume with a 149% growth with 227 donations made. 
+            <ul>
+              <li>May had 227 donations with a high of $1.3M. This is due to a gala event that encouraged more individual donations through ticket sales and gifts in support of the hosted event.</li>
+            </ul>
+          <li>This demonstrates the impact of campaign events throughout the year. Larger campaigns and events bring in more donors and encourage more community involvement but smaller campaigns can bring in more consistent small donations. </li>
+        <ul>
+           <li> I recommend smaller scale campaigns throguhout the year especially in the new year and slow months to encourage further donations even if they only encourage smaller donations since every donation helps develop the organization's programs.</li>
+          <li>During off-campaign times, deploying mall social media campaigns sharing the impacts of high profile events and developments can encourage past and present donors . That way, past and potential donors can have more insight into the orgnaization's efforts to encourage workfore development and support the local community. </li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
-* We see similar fluctuation, notably a peak in donation volume in December and another peak in May. This can be explained by the hosted Chef Gala in May and common holiday operations in December.
-* This demonstrates how campaign events impact donations throughout the year. Certain campaigns could bring in more donors but are likely to encourage small but helpful donations that boost the organization's fundraising efforts. One recommendation that I might make is to encourage smaller scale campaigns throughout the year, especially during off season times, that encoruage more community involvement leading to more donations. 
+
+## May 2025
+
+Why did May 2025 receive so many donations in terms of amount and volume? And what attributed to these increases?
+
+Donations/donation volume peaked in May 2025 with a total of $1.3M in support of a fundraising gala to support educational and workforce programs. 
+
+<img width="75%" alt="chef gala_may investigation" src="https://github.com/user-attachments/assets/259fcbaa-16ac-4168-9c8d-060137994e70" />
 
 
-#### Digging Deeper into May 2025
-
-Donations/donation volume peaked in May 2025 in support of a fundraising gala to support educational and workforce programs. 
-
-<img width="2554" height="1642" alt="chef gala_may investigation" src="https://github.com/user-attachments/assets/259fcbaa-16ac-4168-9c8d-060137994e70" />
-
-
-* In May 2025, Gala gifts totaled $261,510 (19%) of the month's donation amount. The remaining 81% of donations came from non-Gala gifts. While the Gala drove much of the donation volume at 181 gifts, the average donation amount was smaller than the non-gala gifts explaining the relationship between volume and amount. 
+* In May 2025, Gala gifts totaled $261,510 (19%) of the month's donation amount. The remaining 81% of donations came from non-Gala gifts. While the Gala drove much of the donation volume at 181 gifts, the average donation amount was smaller than the non-gala gifts.
+* Big campaign events encourage more participants and higher donation volumes. 
 
 
 # Donor Insights
 
-<img width="1998" height="1598" alt="Donor Type Breakdown" src="https://github.com/user-attachments/assets/e6dd5a9f-c07d-443b-a60c-93944b1498dc" />
+<img width="1998" height="1598" alt="Dashboard 5 (3)" src="https://github.com/user-attachments/assets/5ccfc577-cf24-496c-848f-3635d2aa419f" />
+
+<img width="50%" alt="proportion of donor types" src="https://github.com/user-attachments/assets/57f8eb68-4689-4784-a631-fe3bb1acba11" />
 
 * 80% of donations come from foundations at an accumulated $5M worth of donations.
   
