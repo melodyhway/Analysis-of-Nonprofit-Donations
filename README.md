@@ -177,7 +177,7 @@ Our recurring donors, defined by the donations made monthly throughout the year,
 
 * Donor 1002, a foundation donor, donated 11 times over the year accounting for $772K in total donations.
   
-## Top Donors by Type
+## Top Foundation, Individual, and Corporate Donors
 
 <img width="2104" height="640" alt="Top Foundation Donors" src="https://github.com/user-attachments/assets/ce142188-5614-47a4-ae2a-f7b1e15f434a" />
 
@@ -185,7 +185,9 @@ Our recurring donors, defined by the donations made monthly throughout the year,
 
 <img width="2104" height="640" alt="Top Corporate Donors" src="https://github.com/user-attachments/assets/53f8a95d-a39e-404c-a54d-93afac5222be" />
 
-Our top foundation donor donated over $2M. Our top individual donor donated $26K, and finally, our top corporate donor donated $40K. It is important to demonstrate thanks and consider sending thank yous and updates to these constituents for their support by demonstrating the impact that their donation made to the org. 
+* Our top foundation donor donated over $2M.
+* Our top individual donor donated $26K.
+* The top corporate donor donated $40K.
 
 ## Overall Fund Allocation 
 
