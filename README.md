@@ -102,7 +102,7 @@ A total of $6.83M was donated to our non-profit organization in the July 2024-Ju
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 70%; padding-right:16px;">
+    <td style="vertical-align: top; width: 50%; padding-right:16px;">
       <img
         src="https://github.com/user-attachments/assets/cdc26357-71d3-4757-8f55-bc4d82fdfb20"
         alt="MoM Change in Volume (1)"
@@ -111,17 +111,17 @@ A total of $6.83M was donated to our non-profit organization in the July 2024-Ju
     <td>
       <p>This chart shows the month-over-month change in donation volume. </p>
       <ul>
-          <li>It seems that donations in the beginning of the fiscal year stayed consistent with ~40 unique donors in July-Sep</li>
-          <li>There was a steady increase in donation volume from Oct - Dec. However with consistent growth in donors, it still had not reached peak donation amounts.</li>
+          <li>Donations in the beginning of the fiscal year stayed consistent with ~40 unique donors in July-September. </li>
+          <li>There was a steady increase in donation volume from Oct - Dec. However with consistent donor growth, donation amounts did not reach its peak.</li>
           <li>Donations volume vary widely in Jan - April. </li>
           <li>May reports the highest donation volume with a 149% growth with 227 donations made. 
             <ul>
               <li>May had 227 donations with a high of $1.3M. This is due to a gala event that encouraged more individual donations through ticket sales and gifts in support of the hosted event.</li>
             </ul>
-          <li>This demonstrates the impact of campaign events throughout the year. Larger campaigns and events bring in more donors and encourage more community involvement but smaller campaigns can bring in more consistent small donations. </li>
+          <li>Larger campaigns and events bring in more donors but smaller campaigns can bring in more consistent small donations which sustain the organization throughout the year. </li>
         <ul>
-           <li> I recommend smaller scale campaigns throguhout the year especially in the new year and slow months to encourage further donations even if they only encourage smaller donations since every donation helps develop the organization's programs.</li>
-          <li>During off-campaign times, deploying small social media campaigns to share the impacts of high profile events and organizational development can encourage past and present donors. That way, past and potential donors can have more insight into the orgnaization's efforts to encourage workfore development and support the local community. </li>
+           <li> I recommend smaller scale campaigns throguhout the year especially in slow months, like January and Februrary to encourage smaller donations to help sustain and develop the organization's programs.</li>
+          <li>Deploying small social media campaigns, especially during off season times can encourage further community involvement from small donations or social support </li>
         </ul>
       </ul>
     </td>
@@ -159,12 +159,10 @@ Donations/donation volume peaked in May 2025 with a total of $1.3M in support of
 </table>
 
 
-
-
-
 * 80% of donations come from foundations at an accumulated $5M worth of donations.
   
 * 7.22% of donations were made by Individual donors at $500K. While individuals donors make up a smaller percentage of the total donations, they are still impactful to the organization. It shows community outreach efforts are very impactful in garnering financial support for the organization. This means that the organization should both focus on developing foundational partnerships and encourage individual donations at the same time.
+  
 * Recommendations: I would suggest that in order to encourage individual donations, the organization could focus campaign efforts throughout the local community both in person and online through small social media campaigns or other methods. 
 
 * Note: Planned Giving donations are often one-time gifts made in advance following a donor plan. Since it is a one-off donation, further analysis may not yield significant results for future projections. Therefore, we will only focus on our top three constituent types: **foundation, individual, and corporate donors**. 
