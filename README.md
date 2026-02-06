@@ -36,7 +36,7 @@ The data contains 1,066 records on donations made during the 2024-2025 fiscal ye
 
 <img width="333" height="444" alt="data structure" src="https://github.com/user-attachments/assets/d8ca3d56-14b6-403b-b0d2-c7fba339d789" />
 
-### Data Caveats
+### Data Cleaning 
 There were several instances of data logging errors including misaligned dates, total donation calculations, duplicate columns, errors, and blank values. These issues were addressed using data cleaning methods through Excel. 
 
 A log of fixes can be found [here](https://github.com/melodyhway/Donations-Analysis-using-SQL/blob/ec97ac7fdaa82c0d7fb66a9f593de10ed51d0878/datafixes.md).
@@ -54,7 +54,8 @@ A total of $6.83M was donated to our non-profit organization in the July 2024-Ju
 
 # Dashboard Overview 
 <p align="center">
-<img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/255ce964-656a-4766-8e5c-a4f20954860b" />
+<img width="3198" height="1798" alt="Dashboard" src="https://github.com/user-attachments/assets/c2948bdf-b1b1-4814-9e98-9b9b508c23c4" />
+
 </p>
 
 
