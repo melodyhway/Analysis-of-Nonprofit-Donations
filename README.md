@@ -200,9 +200,9 @@ Our recurring donors, defined by the donations made monthly throughout the year,
       <p>
         Most donations were designated towards general operations.  
         <ul>
-          <li>$5M (77.3%) was reserved for general operations</li>
-          <li>$784K (~11%) of donations were directed towards the SUPHS departments.</li>
-          <li>$411K (~6.23%) were allocated towards the Work Development department.</li>
+          <li>$5.11M (74.8%) was reserved for general operations.</li>
+          <li>$780K (~11%) of donations were directed towards the SUPER departments.</li>
+          <li>General Operations have the ability to be allocated towards any departmental needs.</li>
         </ul>
       </p>
     </td>
