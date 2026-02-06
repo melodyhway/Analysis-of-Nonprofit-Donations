@@ -194,11 +194,11 @@ Our recurring donors, defined by the donations made monthly throughout the year,
 <table >
   <tr>
     <td style="vertical-align: top; width: 50%;">
-      <img width="100%" alt="pie fund allocation (2) (1)" src="https://github.com/user-attachments/assets/98bc46a8-b20f-47b4-b938-af2731840c92">
+      <img width="100%" alt="Fund Allocation" src="https://github.com/user-attachments/assets/bf08e533-f4c9-43c5-8763-dc581318a822">
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <p>
-        Most donations are designated towards general operations.  
+        Most donations were designated towards general operations.  
         <ul>
           <li>$5M (77.3%) was reserved for general operations</li>
           <li>$784K (~11%) of donations were directed towards the SUPHS departments.</li>
